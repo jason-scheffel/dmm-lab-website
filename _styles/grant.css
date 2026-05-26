@@ -1,0 +1,33 @@
+.grant {
+  margin: 30px 0 45px;
+}
+
+.grant-title {
+  margin-bottom: 12px;
+}
+
+.grant-meta,
+.grant-label,
+.grant-link,
+.grant-summary p {
+  text-align: left;
+}
+
+.grant-meta {
+  margin: 8px 0;
+}
+
+.grant-label {
+  margin: 18px 0 8px;
+  font-weight: var(--semi-bold);
+}
+
+.grant-summary p {
+  margin-top: 8px;
+}
+
+.grant-link {
+  margin-top: 10px;
+}
+
+/*# sourceMappingURL=grant.css.map */
