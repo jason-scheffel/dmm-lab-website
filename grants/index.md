@@ -1,7 +1,7 @@
 ---
 title: Grants
 nav:
-  order: 3
+  order: 4
   tooltip: Research funding
 redirect_from:
   - /funding.html

@@ -59,19 +59,33 @@
         }}
       </div>
 
-      <div class="citation-details">
-        <span class="citation-publisher">
-          {{- citation.publisher | default: "[no publisher info]" -}}
-        </span>
-        &nbsp;·&nbsp;
-        <span class="citation-date">
-          {{- citation.date | default: "[no date info]" | date: "%d %b %Y" -}}
-        </span>
-        &nbsp;·&nbsp;
-        <span class="citation-id">
-          {{- citation.id | default: "[no id info]" -}}
-        </span>
-      </div>
+      {% if citation.publisher or citation.date or citation.id %}
+        <div class="citation-details">
+          {% if citation.publisher %}
+            <span class="citation-publisher">
+              {{- citation.publisher -}}
+            </span>
+          {% endif %}
+
+          {% if citation.date %}
+            {% if citation.publisher %}
+              &nbsp;·&nbsp;
+            {% endif %}
+            <span class="citation-date">
+              {{- citation.date | date: "%d %b %Y" -}}
+            </span>
+          {% endif %}
+
+          {% if citation.id %}
+            {% if citation.publisher or citation.date %}
+              &nbsp;·&nbsp;
+            {% endif %}
+            <span class="citation-id">
+              {{- citation.id -}}
+            </span>
+          {% endif %}
+        </div>
+      {% endif %}
 
       {% if include.style == "rich" %}
         {% if citation.description %}
