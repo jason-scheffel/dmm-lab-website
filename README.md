@@ -8,29 +8,122 @@ Visit **[jason-scheffel.github.io/dmm-lab-website](https://jason-scheffel.github
 
 Built with the [Lab Website Template](https://greene-lab.gitbook.io/lab-website-template-docs).
 
-## Updating Publications
+## Table of Contents
 
-The template supports more citation workflows than this README covers. The full docs are here: [Citations](https://greene-lab.gitbook.io/lab-website-template-docs/basics/citations).
+- [Modify Content](#modify-content)
+- [People](#people)
+- [Research](#research)
+- [Publications](#publications)
+- [Grants](#grants)
+- [Software](#software)
 
-The easiest paths are identifier entries and manual entries.
+## Modify Content
 
-For normal publication updates, edit **only** this file:
+Most site content lives in small Markdown or YAML files. Edit the file for the item you want to change, then commit and push. GitHub Pages rebuilds the live site.
+
+### People
+
+Each person gets one file in `_members/`. The filename becomes the lookup name, so `_members/jane-doe.md` is used as `jane-doe`.
+
+Photos go in `images/people/`. If no photo is available, leave out `image`.
+
+#### Add Faculty
+
+Create a file like `_members/jane-doe.md`:
+
+```yaml
+---
+name: Prof. Jane Doe
+image: images/people/jane-doe.jpg
+description: Associate Professor
+role: principal-investigator
+affiliation: University at Albany - SUNY
+links:
+  home-page: https://example.com
+---
+
+Short bio goes here.
+```
+
+Then add this line under `## Faculty` in `people/index.md`:
+
+```liquid
+{% include person.html lookup="jane-doe" %}
+```
+
+#### Add PhD Student
+
+Use the same pattern, with:
+
+```yaml
+description: PhD Student
+role: phd
+```
+
+Then add the include under `## PhD Students` in `people/index.md`.
+
+#### Add Undergraduate Student
+
+Use:
+
+```yaml
+description: Undergraduate Student
+role: undergrad
+```
+
+Then add the include under `## Undergraduate Students` in `people/index.md`.
+
+#### Add Alumni
+
+Use:
+
+```yaml
+description: PhD, 2024
+role: alum
+group: alum
+```
+
+Then add the include under `## Alumni` in `people/index.md`:
+
+```liquid
+{% include person.html lookup="jane-doe" style="compact" %}
+```
+
+### Research
+
+Each research project gets one file in `_research/`. The research page lists these files automatically by `order`.
+
+Create a file like `_research/06-example-project.md`:
+
+```yaml
+---
+title: Example Research Project
+image: images/research/example-project.jpg
+order: 6
+---
+
+Project description goes here.
+```
+
+Use `order` to control the display order. Images are optional.
+
+### Publications
+
+The template supports more citation workflows than this README covers. Details are in the [citation docs](https://greene-lab.gitbook.io/lab-website-template-docs/basics/citations).
+
+For this site, edit publication sources here:
 
 ```text
 _data/sources.yaml
 ```
 
-Do **not** edit `_data/citations.yaml`. That file is generated automatically by GitHub Actions and will be overwritten.
+Do **not** edit `_data/citations.yaml`. That file is generated automatically by GitHub Actions.
 
-The publications page itself is here, but usually does not need edits:
+#### Add Publication by Identifier
 
-```text
-publications/index.md
-```
+Use this when the paper has a DOI, arXiv ID, or another identifier supported by [Manubot](https://github.com/manubot/manubot/blob/main/manubot/cite/handlers.py#L155).
 
-### Option 1: Identifier
-
-Use this when the paper has a DOI, arXiv ID, or another identifier supported by [Manubot](https://github.com/manubot/manubot/blob/main/manubot/cite/handlers.py#L155). Add one entry to `_data/sources.yaml`:
+Add one entry to `_data/sources.yaml`:
 
 ```yaml
 - id: doi:10.xxxx/example
@@ -46,11 +139,9 @@ or:
   link: https://arxiv.org/abs/2309.09717
 ```
 
-After the change is committed and pushed, GitHub Actions asks Manubot to fill in the title, authors, journal/conference, and date.
+#### Add Publication Manually
 
-### Option 2: Manual Entry
-
-Add the full details yourself in `_data/sources.yaml`:
+Use this when the automatic citation does not work.
 
 ```yaml
 - title: Example Paper Title
@@ -63,4 +154,54 @@ Add the full details yourself in `_data/sources.yaml`:
   type: paper
 ```
 
-then commit.
+### Grants
+
+Each grant gets one file in `_grants/`. The grants page lists these files automatically by `status` and `order`.
+
+Create a file like `_grants/09-example-grant.md`:
+
+```yaml
+---
+title: Example Grant Title
+status: current
+order: 90
+funder: National Science Foundation
+funder_url: https://www.nsf.gov/
+amount: $500k
+award_number: 1234567
+award_url: https://www.nsf.gov/awardsearch/showAward?AWD_ID=1234567
+duration: 9/24-8/27
+project_url: https://example.com/project
+---
+
+Short grant summary goes here.
+```
+
+Use `status: current` or `status: past`. To hide a grant without deleting it, add `hidden: true`.
+
+### Software
+
+Each software entry gets one file in `_software/`. The software page lists these files automatically by `order`.
+
+Images go in `images/software/`.
+
+Create a file like `_software/17-example-software.md`:
+
+```yaml
+---
+title: "Example Software [KDD'24]"
+order: 170
+image: images/software/example-software.png
+image_width: 240px
+links:
+  - text: Matlab Code
+    url: https://example.com/software.zip
+    icon: fa-solid fa-code
+citation: >-
+  First Author and Petko Bogdanov,
+  ["Example Paper Title"](https://example.com/paper.pdf),
+  Conference Name, 2024.
+---
+```
+
+Images and citations are optional. To hide a software entry without deleting it, add `hidden: true`.
