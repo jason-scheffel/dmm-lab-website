@@ -1,0 +1,23 @@
+{% assign software = include.software %}
+
+<section class="software-item">
+  <h3>{{ software.title }}</h3>
+
+  {% if software.links %}
+    <div class="software-links">
+      {% for link in software.links %}
+        <a class="button" href="{{ link.url }}">
+          {% include icon.html icon=link.icon %}
+          <span>{{ link.text }}</span>
+        </a>
+      {% endfor %}
+    </div>
+  {% endif %}
+
+  {% if software.citation %}
+    <p class="software-citation">
+      <span>Citation:</span>
+      {{ software.citation | markdownify | remove: "<p>" | remove: "</p>" }}
+    </p>
+  {% endif %}
+</section>

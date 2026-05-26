@@ -30,6 +30,11 @@ defaults:
       type: "grants"
     values:
       layout: default
+  # markdown files in /_software
+  - scope:
+      type: "software"
+    values:
+      layout: default
   # markdown files in /_posts
   - scope:
       type: "posts"
@@ -45,6 +50,9 @@ collections:
     output: false
   # grant records
   grants:
+    output: false
+  # software records
+  software:
     output: false
   # generate page for each post
   posts:
