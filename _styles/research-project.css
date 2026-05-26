@@ -1,0 +1,27 @@
+.research-project {
+  margin: 30px 0 45px;
+}
+
+.research-project .figure {
+  margin: 15px 0 20px;
+}
+
+.research-project .figure-image {
+  display: inline-block;
+}
+
+.research-project .figure img {
+  max-width: min(100%, 520px);
+  max-height: 280px;
+  object-fit: contain;
+}
+
+.research-project .figure-caption {
+  display: none;
+}
+
+.research-project-description p {
+  text-align: left;
+}
+
+/*# sourceMappingURL=research-project.css.map */
