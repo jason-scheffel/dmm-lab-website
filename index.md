@@ -1,81 +1,20 @@
 ---
 ---
 
-# jason-scheffel's Website
+# Data Management and Mining Lab
 
-An engaging 1-3 sentence description of your lab.
+{% include figure.html image="https://www.cs.albany.edu/~petko/lab/img/dmm2019.jpg" caption="Data Management and Mining Lab group photo" %}
+
+At the Data Mining and Management lab at the University at Albany - SUNY we design algorithms for data mining and machine learning with applications in biology, material design, social media analytics, emergency preparedness, wireless networks and network science. For details, head to [research](https://www.cs.albany.edu/~petko/lab/research/). Our work has been [funded](https://www.cs.albany.edu/~petko/lab/funding.html/) by NSF, ONR, NGA and DARPA. We value team work and inclusion in research for [students](https://www.cs.albany.edu/~petko/lab/people.html) at all levels.
 
 {% include section.html %}
 
-## Highlights
+## Positions
 
-{% capture text %}
+Multiple research assistant positions:
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+- Dynamic graph mining ([Project details](https://www.cs.albany.edu/~petko/lab/research/2020-graphres/)).
+- Machine learning models for nanomaterial design ([Project details](https://www.cs.albany.edu/~petko/lab/research/2020-nano/)).
+- Data mining for emergency preparedness ([Project details](https://www.cs.albany.edu/sccepr/)).
 
-{%
-  include button.html
-  link="research"
-  text="See our publications"
-  icon="fa-solid fa-arrow-right"
-  flip=true
-  style="bare"
-%}
-
-{% endcapture %}
-
-{%
-  include feature.html
-  image="images/photo.jpg"
-  link="research"
-  title="Our Research"
-  text=text
-%}
-
-{% capture text %}
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-
-{%
-  include button.html
-  link="projects"
-  text="Browse our projects"
-  icon="fa-solid fa-arrow-right"
-  flip=true
-  style="bare"
-%}
-
-{% endcapture %}
-
-{%
-  include feature.html
-  image="images/photo.jpg"
-  link="projects"
-  title="Our Projects"
-  flip=true
-  style="bare"
-  text=text
-%}
-
-{% capture text %}
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-
-{%
-  include button.html
-  link="team"
-  text="Meet our team"
-  icon="fa-solid fa-arrow-right"
-  flip=true
-  style="bare"
-%}
-
-{% endcapture %}
-
-{%
-  include feature.html
-  image="images/photo.jpg"
-  link="team"
-  title="Our Team"
-  text=text
-%}
+To apply, send CV and transcripts to [Prof. Petko Bogdanov](https://www.cs.albany.edu/~petko).
