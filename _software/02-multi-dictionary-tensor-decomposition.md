@@ -1,6 +1,8 @@
 ---
 title: "Multi-Dictionary Tensor Decomposition [ICDM'23]"
 order: 20
+image: images/software/mdtd.png
+image_width: 280px
 links:
   - text: Matlab Code
     url: https://www.cs.albany.edu/~petko/lab/software/MDTD.zip

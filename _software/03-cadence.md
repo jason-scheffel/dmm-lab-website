@@ -1,6 +1,8 @@
 ---
 title: "CADENCE: Detection of dynamic network states [SDM'23]"
 order: 30
+image: images/software/cadence.jpg
+image_width: 240px
 links:
   - text: Matlab Code
     url: https://www.cs.albany.edu/~petko/lab/software/CADENCE.zip

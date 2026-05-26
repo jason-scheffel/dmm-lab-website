@@ -1,6 +1,8 @@
 ---
 title: "Low Rank Multi-Dictionary Selection at Scale [KDD'24]"
 order: 10
+image: images/software/lrmds.png
+image_width: 280px
 links:
   - text: Matlab Code
     url: https://www.cs.albany.edu/~petko/lab/software/LRMDS.zip

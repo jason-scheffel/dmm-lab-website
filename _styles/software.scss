@@ -5,6 +5,14 @@
   margin: 30px 0 45px;
 }
 
+.software-image {
+  display: block;
+  width: 100%;
+  height: auto;
+  margin: 0 0 16px;
+  object-fit: contain;
+}
+
 .software-links {
   display: flex;
   flex-wrap: wrap;

@@ -1,6 +1,8 @@
 ---
 title: "Temporal Graph Signal Decomposition (TGSD) [KDD'21]"
 order: 70
+image: images/software/tgsd.png
+image_width: 140px
 links:
   - text: Matlab Code
     url: https://www.cs.albany.edu/~petko/lab/software/TGSD.zip

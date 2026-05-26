@@ -1,6 +1,8 @@
 ---
 title: "GIST: Graph Inference for Structured Time Series [SDM'23]"
 order: 40
+image: images/software/gist.jpg
+image_width: 250px
 links:
   - text: Matlab Code
     url: https://www.cs.albany.edu/~petko/lab/software/GIST.zip

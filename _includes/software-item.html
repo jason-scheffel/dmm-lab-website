@@ -1,6 +1,18 @@
 {% assign software = include.software %}
+{% assign image_width = software.image_width | default: "280px" %}
 
 <section class="software-item">
+  {% if software.image %}
+    <img
+      class="software-image"
+      src="{{ software.image | relative_url | uri_escape }}"
+      alt="{{ software.title | regex_strip }}"
+      loading="lazy"
+      style="max-width: {{ image_width }};"
+      {% include fallback.html %}
+    >
+  {% endif %}
+
   <h3>{{ software.title }}</h3>
 
   {% if software.links %}

@@ -1,6 +1,8 @@
 ---
 title: "Mining Bursty Groups from Interaction Data (MYRON) [CIKM'21]"
 order: 80
+image: images/software/myron.png
+image_width: 200px
 links:
   - text: Matlab Code
     url: https://www.cs.albany.edu/~petko/lab/software/MYRON.zip

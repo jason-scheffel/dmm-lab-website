@@ -1,6 +1,8 @@
 ---
 title: "SAGA: Signal-Aware Graph Aggregation [SDM'22]"
 order: 60
+image: images/software/saga.png
+image_width: 200px
 links:
   - text: Matlab Code
     url: https://www.cs.albany.edu/~petko/lab/software/SAGA.zip

@@ -1,6 +1,8 @@
 ---
 title: "Ag-DNA Nanocluster Design via VAEs [KDD'22]"
 order: 50
+image: images/software/nano-vae.png
+image_width: 250px
 links:
   - text: Python Code
     url: https://www.cs.albany.edu/~petko/lab/software/NANO-VAE.zip
