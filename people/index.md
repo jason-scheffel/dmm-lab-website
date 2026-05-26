@@ -11,43 +11,51 @@ redirect_from:
 
 ## Faculty
 
-{% include portrait.html lookup="petko-bogdanov" %}
+<div class="person-list">
+  {% include person.html lookup="petko-bogdanov" %}
+</div>
 
 {% include section.html %}
 
 ## PhD Students
 
-{% include portrait.html lookup="elham-sadeghi" %}
-{% include portrait.html lookup="maxwell-mcneil" %}
-{% include portrait.html lookup="boya-ma" %}
+<div class="person-list">
+  {% include person.html lookup="elham-sadeghi" %}
+  {% include person.html lookup="maxwell-mcneil" %}
+  {% include person.html lookup="boya-ma" %}
+</div>
 
 {% include section.html %}
 
 ## Undergraduate Students
 
-{% include portrait.html lookup="max-solomon" %}
+<div class="person-list">
+  {% include person.html lookup="max-solomon" %}
+</div>
 
 {% include section.html %}
 
 ## Alumni
 
-{% include portrait.html lookup="alexander-gorovits" style="tiny" %}
-{% include portrait.html lookup="lin-zhang" style="tiny" %}
-{% include portrait.html lookup="daniel-ditursi" style="tiny" %}
-{% include portrait.html lookup="fariha-moomtaheen" style="tiny" %}
-{% include portrait.html lookup="matthew-killeen" style="tiny" %}
-{% include portrait.html lookup="carolyn-kaminski" style="tiny" %}
-{% include portrait.html lookup="akshit-bansal" style="tiny" %}
-{% include portrait.html lookup="james-oswald" style="tiny" %}
-{% include portrait.html lookup="abraham-zakharov" style="tiny" %}
-{% include portrait.html lookup="parth-shihora" style="tiny" %}
-{% include portrait.html lookup="francisco-cancedda" style="tiny" %}
-{% include portrait.html lookup="xhuliano-brace" style="tiny" %}
-{% include portrait.html lookup="james-heinlein" style="tiny" %}
-{% include portrait.html lookup="shervin-shahidizandi" style="tiny" %}
-{% include portrait.html lookup="khushboo-shah" style="tiny" %}
-{% include portrait.html lookup="gregory-katsios" style="tiny" %}
-{% include portrait.html lookup="sruthi-gudibandi" style="tiny" %}
-{% include portrait.html lookup="navita-jain" style="tiny" %}
-{% include portrait.html lookup="timothy-larock" style="tiny" %}
-{% include portrait.html lookup="gaurav-ghosh" style="tiny" %}
+<div class="person-list">
+  {% include person.html lookup="alexander-gorovits" style="compact" %}
+  {% include person.html lookup="lin-zhang" style="compact" %}
+  {% include person.html lookup="daniel-ditursi" style="compact" %}
+  {% include person.html lookup="fariha-moomtaheen" style="compact" %}
+  {% include person.html lookup="matthew-killeen" style="compact" %}
+  {% include person.html lookup="carolyn-kaminski" style="compact" %}
+  {% include person.html lookup="akshit-bansal" style="compact" %}
+  {% include person.html lookup="james-oswald" style="compact" %}
+  {% include person.html lookup="abraham-zakharov" style="compact" %}
+  {% include person.html lookup="parth-shihora" style="compact" %}
+  {% include person.html lookup="francisco-cancedda" style="compact" %}
+  {% include person.html lookup="xhuliano-brace" style="compact" %}
+  {% include person.html lookup="james-heinlein" style="compact" %}
+  {% include person.html lookup="shervin-shahidizandi" style="compact" %}
+  {% include person.html lookup="khushboo-shah" style="compact" %}
+  {% include person.html lookup="gregory-katsios" style="compact" %}
+  {% include person.html lookup="sruthi-gudibandi" style="compact" %}
+  {% include person.html lookup="navita-jain" style="compact" %}
+  {% include person.html lookup="timothy-larock" style="compact" %}
+  {% include person.html lookup="gaurav-ghosh" style="compact" %}
+</div>

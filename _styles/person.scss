@@ -1,0 +1,52 @@
+---
+---
+
+.person-list {
+  display: flex;
+  flex-direction: column;
+  gap: 24px;
+  margin: 20px 0 35px;
+}
+
+.person {
+  display: grid;
+  grid-template-columns: 160px minmax(0, 1fr);
+  gap: 24px;
+  align-items: start;
+}
+
+.person[data-style="compact"] {
+  display: block;
+  margin-bottom: 22px;
+}
+
+.person-image-link {
+  display: block;
+}
+
+.person-image {
+  display: block;
+  width: 100%;
+  aspect-ratio: 1 / 1;
+  object-fit: cover;
+}
+
+.person-name {
+  font-weight: var(--semi-bold);
+}
+
+.person-description {
+  margin-top: 4px;
+}
+
+.person-description p {
+  margin: 0 0 4px;
+  text-align: left;
+}
+
+@media (max-width: 600px) {
+  .person {
+    grid-template-columns: 110px minmax(0, 1fr);
+    gap: 16px;
+  }
+}

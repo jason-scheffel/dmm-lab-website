@@ -1,0 +1,58 @@
+{% assign member = site.members
+  | where_exp: "member", "member.slug == include.lookup"
+  | first
+%}
+
+{% assign image = member.image | default: "images/fallback.svg" %}
+{% assign href = member.url %}
+{% assign home_page = member.links["home-page"] %}
+
+{% if home_page %}
+  {% assign href = home_page %}
+{% elsif member.links.website %}
+  {% assign href = member.links.website %}
+{% elsif member.links.linkedin %}
+  {% assign linkedin = member.links.linkedin %}
+  {% if linkedin contains "://" %}
+    {% assign href = linkedin %}
+  {% else %}
+    {% assign href = "https://www.linkedin.com/in/" | append: linkedin %}
+  {% endif %}
+{% endif %}
+
+{% capture title %}
+  {{- member.name -}}
+  {%- if member.group == "alum" and member.description -%}
+    &nbsp;({{ member.description }})
+  {%- endif -%}
+{% endcapture %}
+
+{% if member %}
+  <div class="person" data-style="{{ include.style }}">
+    {% unless include.style == "compact" %}
+      <a
+        href="{{ href | relative_url | uri_escape }}"
+        class="person-image-link"
+        aria-label="{{ member.name | default: "member link" | regex_strip }}"
+      >
+        <img
+          src="{{ image | relative_url | uri_escape }}"
+          class="person-image"
+          alt="{{ member.name | default: "member portrait" | regex_strip }}"
+          loading="lazy"
+          {% include fallback.html %}
+        >
+      </a>
+    {% endunless %}
+
+    <div class="person-text">
+      <a href="{{ href | relative_url | uri_escape }}" class="person-name">
+        {{ title }}
+      </a>
+
+      <div class="person-description">
+        {{ member.content | markdownify }}
+      </div>
+    </div>
+  </div>
+{% endif %}
