@@ -3,7 +3,7 @@
 
 # Data Management and Mining Lab
 
-{% include figure.html image="https://www.cs.albany.edu/~petko/lab/img/dmm2019.jpg" caption="Data Management and Mining Lab group photo" %}
+{% include figure.html image="images/background.jpg" caption="Data Management and Mining Lab group photo" %}
 
 At the Data Mining and Management lab at the University at Albany - SUNY we design algorithms for data mining and machine learning with applications in biology, material design, social media analytics, emergency preparedness, wireless networks and network science. For details, head to [research](https://www.cs.albany.edu/~petko/lab/research/). Our work has been [funded](https://www.cs.albany.edu/~petko/lab/funding.html/) by NSF, ONR, NGA and DARPA. We value team work and inclusion in research for [students](https://www.cs.albany.edu/~petko/lab/people.html) at all levels.
 
