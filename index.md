@@ -17,4 +17,4 @@ Multiple research assistant positions:
 - Machine learning models for nanomaterial design ([Project details](https://www.cs.albany.edu/~petko/lab/research/2020-nano/)).
 - Data mining for emergency preparedness ([Project details](https://www.cs.albany.edu/sccepr/)).
 
-To apply, send CV and transcripts to [Prof. Petko Bogdanov](https://www.cs.albany.edu/~petko).
+To apply, [send CV and transcripts](https://www.albany.edu/computer-science/faculty/petko-bogdanov) to Prof. Petko Bogdanov.
