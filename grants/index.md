@@ -5,7 +5,6 @@ nav:
   tooltip: Research funding
 redirect_from:
   - /funding.html
-  - /funding.html/
 ---
 
 # {% include icon.html icon="fa-solid fa-hand-holding-dollar" %}Grants
