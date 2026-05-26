@@ -2,22 +2,38 @@
 ---
 
 .software-item {
-  margin: 30px 0 45px;
+  display: grid;
+  grid-template-columns: minmax(0, 1fr) minmax(120px, var(--software-image-width));
+  gap: 12px 22px;
+  align-items: start;
+  margin: 22px 0 28px;
+}
+
+.software-item-no-image {
+  display: block;
+  margin: 18px 0 24px;
 }
 
 .software-image {
   display: block;
   width: 100%;
+  max-width: var(--software-image-width);
   height: auto;
-  margin: 0 0 16px;
+  margin-top: 4px;
+  justify-self: end;
   object-fit: contain;
+}
+
+.software-body h3 {
+  margin-top: 0;
+  margin-bottom: 8px;
 }
 
 .software-links {
   display: flex;
   flex-wrap: wrap;
-  gap: 10px;
-  margin: 12px 0;
+  gap: 8px;
+  margin: 8px 0;
 }
 
 .software-links .button {
@@ -25,9 +41,20 @@
 }
 
 .software-citation {
+  margin: 8px 0 0;
   text-align: left;
 }
 
 .software-citation span {
   font-weight: var(--semi-bold);
+}
+
+@media (max-width: 700px) {
+  .software-item {
+    display: block;
+  }
+
+  .software-image {
+    margin: 0 0 10px;
+  }
 }

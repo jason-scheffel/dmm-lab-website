@@ -1,35 +1,39 @@
 {% assign software = include.software %}
 {% assign image_width = software.image_width | default: "280px" %}
 
-<section class="software-item">
+<section
+  class="software-item {% unless software.image %}software-item-no-image{% endunless %}"
+  style="--software-image-width: {{ image_width }};"
+>
+  <div class="software-body">
+    <h3>{{ software.title }}</h3>
+
+    {% if software.links %}
+      <div class="software-links">
+        {% for link in software.links %}
+          <a class="button" href="{{ link.url }}">
+            {% include icon.html icon=link.icon %}
+            <span>{{ link.text }}</span>
+          </a>
+        {% endfor %}
+      </div>
+    {% endif %}
+
+    {% if software.citation %}
+      <p class="software-citation">
+        <span>Citation:</span>
+        {{ software.citation | markdownify | remove: "<p>" | remove: "</p>" }}
+      </p>
+    {% endif %}
+  </div>
+
   {% if software.image %}
     <img
       class="software-image"
       src="{{ software.image | relative_url | uri_escape }}"
       alt="{{ software.title | regex_strip }}"
       loading="lazy"
-      style="max-width: {{ image_width }};"
       {% include fallback.html %}
     >
-  {% endif %}
-
-  <h3>{{ software.title }}</h3>
-
-  {% if software.links %}
-    <div class="software-links">
-      {% for link in software.links %}
-        <a class="button" href="{{ link.url }}">
-          {% include icon.html icon=link.icon %}
-          <span>{{ link.text }}</span>
-        </a>
-      {% endfor %}
-    </div>
-  {% endif %}
-
-  {% if software.citation %}
-    <p class="software-citation">
-      <span>Citation:</span>
-      {{ software.citation | markdownify | remove: "<p>" | remove: "</p>" }}
-    </p>
   {% endif %}
 </section>
