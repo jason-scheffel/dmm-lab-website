@@ -25,6 +25,11 @@ defaults:
       type: "research"
     values:
       layout: default
+  # markdown files in /_grants
+  - scope:
+      type: "grants"
+    values:
+      layout: default
   # markdown files in /_posts
   - scope:
       type: "posts"
@@ -37,6 +42,9 @@ collections:
     output: true
   # research project records
   research:
+    output: false
+  # grant records
+  grants:
     output: false
   # generate page for each post
   posts:

@@ -1,0 +1,49 @@
+{% assign grant = include.grant %}
+
+<section class="grant">
+  <h3 class="grant-title">
+    {% if grant.project_url %}
+      <a href="{{ grant.project_url }}">{{ grant.title }}</a>
+    {% else %}
+      {{ grant.title }}
+    {% endif %}
+  </h3>
+
+  <p class="grant-meta">
+    Funded by
+    {% if grant.funder_url %}
+      <a href="{{ grant.funder_url }}">{{ grant.funder }}</a>
+    {% else %}
+      {{ grant.funder }}
+    {% endif %}
+    {%- if grant.amount -%}, {{ grant.amount }}{%- endif -%}
+    {%- if grant.support -%} ({{ grant.support }}){%- endif -%}
+    {%- if grant.award_number -%}
+      , Award Number:
+      {% if grant.award_url %}
+        <a href="{{ grant.award_url }}">{{ grant.award_number }}</a>
+      {% else %}
+        {{ grant.award_number }}
+      {% endif %}
+    {%- endif -%}
+    {%- if grant.subaward_number -%}, Subaward number: {{ grant.subaward_number }}{%- endif -%}
+  </p>
+
+  {% if grant.duration %}
+    <p class="grant-meta">Duration: {{ grant.duration }}</p>
+  {% endif %}
+
+  {% if grant.status == "current" %}
+    <p class="grant-label">Short Summary</p>
+  {% endif %}
+
+  <div class="grant-summary">
+    {{ grant.content | markdownify }}
+  </div>
+
+  {% if grant.project_url %}
+    <p class="grant-link">
+      <a href="{{ grant.project_url }}">Project website</a>
+    </p>
+  {% endif %}
+</section>
