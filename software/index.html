@@ -1,0 +1,908 @@
+<!DOCTYPE html>
+<html lang="en" data-dark="false">
+  <head>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+  <!--
+  put your analytics (e.g. Google Analytics) tracking code here
+-->
+
+  <!--
+  put your search engine verification (e.g. Google Search Console) tag here
+-->
+
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<meta name="viewport" content="width=device-width, initial-scale=1">
+
+<title>Software | Data Management and Mining Lab</title>
+
+<link rel="icon" href="/dmm-lab-website/images/icon.png">
+
+<meta name="title" content="Software">
+<meta name="description" content="University at Albany - SUNY. Data mining and machine learning algorithms for biology, material design, social media analytics, emergency preparedness, wireless networks, and network science.">
+
+<meta property="og:title" content="Software">
+<meta property="og:site_title" content="Data Management and Mining Lab">
+<meta property="og:description" content="University at Albany - SUNY. Data mining and machine learning algorithms for biology, material design, social media analytics, emergency preparedness, wireless networks, and network science.">
+<meta property="og:url" content="https://jason-scheffel.github.io/dmm-lab-website">
+<meta property="og:image" content="/dmm-lab-website/images/share.jpg">
+<meta property="og:locale" content="en_US">
+
+<meta property="twitter:title" content="Software">
+<meta property="twitter:description" content="University at Albany - SUNY. Data mining and machine learning algorithms for biology, material design, social media analytics, emergency preparedness, wireless networks, and network science.">
+<meta property="twitter:url" content="https://jason-scheffel.github.io/dmm-lab-website">
+<meta property="twitter:card" content="summary_large_image">
+<meta property="twitter:image" content="/dmm-lab-website/images/share.jpg">
+
+
+  <meta property="og:type" content="website">
+
+
+<script type="application/ld+json">
+  {
+    "@context": "https://schema.org",
+    
+      "@type": "WebSite",
+    
+    "name": "Software",
+    "description": "University at Albany - SUNY. Data mining and machine learning algorithms for biology, material design, social media analytics, emergency preparedness, wireless networks, and network science.",
+    "headline": "Software",
+    "publisher": {
+      "@type": "Organization",
+      "logo": { "@type": "ImageObject", "url": "/dmm-lab-website/images/icon.png" }
+    },
+    "url": "https://jason-scheffel.github.io/dmm-lab-website"
+  }
+</script>
+
+<link rel="alternate" type="application/rss+xml" href="https://jason-scheffel.github.io/dmm-lab-website/feed.xml">
+
+  <!-- Google Fonts -->
+<!-- automatically get url from fonts used in theme file -->
+
+<link rel="preconnect" href="https://fonts.gstatic.com">
+<link href="https://fonts.googleapis.com/css2?display=swap&&family=Barlow:ital,wght@0,200;0,400;0,500;0,600;1,200;1,400;1,500;1,600&amp;family=Roboto+Mono:ital,wght@0,200;0,400;0,500;0,600;1,200;1,400;1,500;1,600" rel="stylesheet">
+
+<!-- Font Awesome icons (load asynchronously due to size) -->
+
+<link href="https://use.fontawesome.com/releases/v6.7.0/css/all.css" rel="stylesheet" media="none" onload="this.removeAttribute('media'); this.onload = null;">
+<noscript>
+  <link href="https://use.fontawesome.com/releases/v6.7.0/css/all.css" rel="stylesheet">
+</noscript>
+
+  <!-- third party styles -->
+<!-- https://stylishthemes.github.io/Syntax-Themes/pygments/ -->
+<link href="https://cdn.jsdelivr.net/gh/StylishThemes/Syntax-Themes/pygments/css-github/pygments-tomorrow-night-eighties.css" rel="stylesheet">
+
+<!-- include all sass in styles folder -->
+
+
+  
+    <link href="/dmm-lab-website/_styles/-theme.css" rel="stylesheet">
+  
+
+  
+    <link href="/dmm-lab-website/_styles/alert.css" rel="stylesheet">
+  
+
+  
+    <link href="/dmm-lab-website/_styles/all.css" rel="stylesheet">
+  
+
+  
+    <link href="/dmm-lab-website/_styles/anchor.css" rel="stylesheet">
+  
+
+  
+    <link href="/dmm-lab-website/_styles/background.css" rel="stylesheet">
+  
+
+  
+    <link href="/dmm-lab-website/_styles/body.css" rel="stylesheet">
+  
+
+  
+    <link href="/dmm-lab-website/_styles/bold.css" rel="stylesheet">
+  
+
+  
+    <link href="/dmm-lab-website/_styles/button.css" rel="stylesheet">
+  
+
+  
+    <link href="/dmm-lab-website/_styles/card.css" rel="stylesheet">
+  
+
+  
+    <link href="/dmm-lab-website/_styles/checkbox.css" rel="stylesheet">
+  
+
+  
+    <link href="/dmm-lab-website/_styles/citation.css" rel="stylesheet">
+  
+
+  
+    <link href="/dmm-lab-website/_styles/code.css" rel="stylesheet">
+  
+
+  
+    <link href="/dmm-lab-website/_styles/cols.css" rel="stylesheet">
+  
+
+  
+    <link href="/dmm-lab-website/_styles/dark-toggle.css" rel="stylesheet">
+  
+
+  
+    <link href="/dmm-lab-website/_styles/details.css" rel="stylesheet">
+  
+
+  
+    <link href="/dmm-lab-website/_styles/feature.css" rel="stylesheet">
+  
+
+  
+    <link href="/dmm-lab-website/_styles/figure.css" rel="stylesheet">
+  
+
+  
+    <link href="/dmm-lab-website/_styles/float.css" rel="stylesheet">
+  
+
+  
+    <link href="/dmm-lab-website/_styles/font.css" rel="stylesheet">
+  
+
+  
+    <link href="/dmm-lab-website/_styles/footer.css" rel="stylesheet">
+  
+
+  
+    <link href="/dmm-lab-website/_styles/form.css" rel="stylesheet">
+  
+
+  
+    <link href="/dmm-lab-website/_styles/grant.css" rel="stylesheet">
+  
+
+  
+    <link href="/dmm-lab-website/_styles/grid.css" rel="stylesheet">
+  
+
+  
+    <link href="/dmm-lab-website/_styles/header.css" rel="stylesheet">
+  
+
+  
+    <link href="/dmm-lab-website/_styles/heading.css" rel="stylesheet">
+  
+
+  
+    <link href="/dmm-lab-website/_styles/highlight.css" rel="stylesheet">
+  
+
+  
+    <link href="/dmm-lab-website/_styles/icon.css" rel="stylesheet">
+  
+
+  
+    <link href="/dmm-lab-website/_styles/image.css" rel="stylesheet">
+  
+
+  
+    <link href="/dmm-lab-website/_styles/link.css" rel="stylesheet">
+  
+
+  
+    <link href="/dmm-lab-website/_styles/list.css" rel="stylesheet">
+  
+
+  
+    <link href="/dmm-lab-website/_styles/main.css" rel="stylesheet">
+  
+
+  
+    <link href="/dmm-lab-website/_styles/paragraph.css" rel="stylesheet">
+  
+
+  
+    <link href="/dmm-lab-website/_styles/person.css" rel="stylesheet">
+  
+
+  
+    <link href="/dmm-lab-website/_styles/portrait.css" rel="stylesheet">
+  
+
+  
+    <link href="/dmm-lab-website/_styles/post-excerpt.css" rel="stylesheet">
+  
+
+  
+    <link href="/dmm-lab-website/_styles/post-info.css" rel="stylesheet">
+  
+
+  
+    <link href="/dmm-lab-website/_styles/post-nav.css" rel="stylesheet">
+  
+
+  
+    <link href="/dmm-lab-website/_styles/quote.css" rel="stylesheet">
+  
+
+  
+    <link href="/dmm-lab-website/_styles/research-project.css" rel="stylesheet">
+  
+
+  
+    <link href="/dmm-lab-website/_styles/rule.css" rel="stylesheet">
+  
+
+  
+    <link href="/dmm-lab-website/_styles/search-box.css" rel="stylesheet">
+  
+
+  
+    <link href="/dmm-lab-website/_styles/search-info.css" rel="stylesheet">
+  
+
+  
+    <link href="/dmm-lab-website/_styles/section.css" rel="stylesheet">
+  
+
+  
+    <link href="/dmm-lab-website/_styles/software.css" rel="stylesheet">
+  
+
+  
+    <link href="/dmm-lab-website/_styles/table.css" rel="stylesheet">
+  
+
+  
+    <link href="/dmm-lab-website/_styles/tags.css" rel="stylesheet">
+  
+
+  
+    <link href="/dmm-lab-website/_styles/textbox.css" rel="stylesheet">
+  
+
+  
+    <link href="/dmm-lab-website/_styles/tooltip.css" rel="stylesheet">
+  
+
+  
+    <link href="/dmm-lab-website/_styles/util.css" rel="stylesheet">
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+
+<!-- include all css in styles folder -->
+
+
+
+  <!-- third party scripts -->
+<script src="https://unpkg.com/@popperjs/core@2" defer></script>
+<script src="https://unpkg.com/tippy.js@6" defer></script>
+<script src="https://unpkg.com/mark.js@8" defer></script>
+
+<!-- include all js in scripts folder -->
+
+
+  <script src="/dmm-lab-website/_scripts/anchors.js"></script>
+
+  <script src="/dmm-lab-website/_scripts/dark-mode.js"></script>
+
+  <script src="/dmm-lab-website/_scripts/fetch-tags.js"></script>
+
+  <script src="/dmm-lab-website/_scripts/search.js"></script>
+
+  <script src="/dmm-lab-website/_scripts/site-search.js"></script>
+
+  <script src="/dmm-lab-website/_scripts/table-wrap.js"></script>
+
+  <script src="/dmm-lab-website/_scripts/tooltip.js"></script>
+
+
+</head>
+
+  <body>
+    
+
+
+
+
+
+
+
+<header class="background" style="--image: url('/dmm-lab-website/images/background.jpg')" data-dark="true">
+  <a href="/dmm-lab-website/" class="home">
+    
+      <span class="logo">
+        
+          <img src="/dmm-lab-website/images/logo.png" alt="logo">
+        
+      </span>
+    
+    
+      <span class="title-text" data-tooltip="Home">
+        
+          <span class="title">Data Management and Mining Lab</span>
+        
+        
+          <span class="subtitle">University at Albany - SUNY</span>
+        
+      </span>
+    
+  </a>
+
+  <input class="nav-toggle" type="checkbox" aria-label="show/hide nav">
+
+  <nav>
+    
+    
+      
+        <a href="/dmm-lab-website/people/" data-tooltip="Lab members and alumni">
+          People
+        </a>
+      
+    
+      
+        <a href="/dmm-lab-website/research/" data-tooltip="Research projects">
+          Research
+        </a>
+      
+    
+      
+        <a href="/dmm-lab-website/publications/" data-tooltip="Lab publications">
+          Publications
+        </a>
+      
+    
+      
+        <a href="/dmm-lab-website/grants/" data-tooltip="Research funding">
+          Grants
+        </a>
+      
+    
+      
+        <a href="/dmm-lab-website/software/" data-tooltip="Software and code">
+          Software
+        </a>
+      
+    
+  </nav>
+</header>
+
+    <main>
+      <!--
+  modify main content of page:
+  - add section breaks
+  - attach section properties
+  - filter out blank sections
+-->
+
+
+
+
+
+
+  
+  
+  
+
+  <section class="background" data-size="page">
+    <h1 id="software">
+<i class="icon fa-solid fa-code"></i>Software</h1>
+
+<section class="software-item">
+  <h3>Low Rank Multi-Dictionary Selection at Scale [KDD'24]</h3>
+
+  
+    <div class="software-links">
+      
+        <a class="button" href="https://www.cs.albany.edu/~petko/lab/software/LRMDS.zip">
+          <i class="icon fa-solid fa-code"></i>
+          <span>Matlab Code</span>
+        </a>
+      
+    </div>
+  
+
+  
+    <p class="software-citation">
+      <span>Citation:</span>
+      M. McNeil and P. Bogdanov, <a href="https://www.cs.albany.edu/~petko/lab/papers/mmmb2024kdd.pdf">“Low Rank Multi-Dictionary Selection at Scale”</a>, ACM SIGKDD, 2024.
+
+    </p>
+  
+</section>
+
+<section class="software-item">
+  <h3>Multi-Dictionary Tensor Decomposition [ICDM'23]</h3>
+
+  
+    <div class="software-links">
+      
+        <a class="button" href="https://www.cs.albany.edu/~petko/lab/software/MDTD.zip">
+          <i class="icon fa-solid fa-code"></i>
+          <span>Matlab Code</span>
+        </a>
+      
+    </div>
+  
+
+  
+    <p class="software-citation">
+      <span>Citation:</span>
+      M. McNeil and P. Bogdanov, <a href="https://arxiv.org/abs/2309.09717">“Multi-Dictionary Tensor Decomposition”</a>, IEEE International Conference on Data Mining (ICDM), 2023.
+
+    </p>
+  
+</section>
+
+<section class="software-item">
+  <h3>CADENCE: Detection of dynamic network states [SDM'23]</h3>
+
+  
+    <div class="software-links">
+      
+        <a class="button" href="https://www.cs.albany.edu/~petko/lab/software/CADENCE.zip">
+          <i class="icon fa-solid fa-code"></i>
+          <span>Matlab Code</span>
+        </a>
+      
+        <a class="button" href="https://www.cs.albany.edu/~petko/lab/software/CADENCE_slides.pptx">
+          <i class="icon fa-solid fa-file-powerpoint"></i>
+          <span>Slides</span>
+        </a>
+      
+        <a class="button" href="https://www.cs.albany.edu/~petko/lab/software/CADENCE_poster.pdf">
+          <i class="icon fa-solid fa-file-pdf"></i>
+          <span>Poster</span>
+        </a>
+      
+    </div>
+  
+
+  
+    <p class="software-citation">
+      <span>Citation:</span>
+      M. McNeil, C. Mattsson, F. W. Takes and P. Bogdanov, <a href="https://www.cs.albany.edu/~petko/lab/papers/mmtb2023sdm.pdf">“CADENCE: Community-aware Detection Of Dynamic Network States”</a>, SIAM International Conference on Data Mining (SDM), 2023.
+
+    </p>
+  
+</section>
+
+<section class="software-item">
+  <h3>GIST: Graph Inference for Structured Time Series [SDM'23]</h3>
+
+  
+    <div class="software-links">
+      
+        <a class="button" href="https://www.cs.albany.edu/~petko/lab/software/GIST.zip">
+          <i class="icon fa-solid fa-code"></i>
+          <span>Matlab Code</span>
+        </a>
+      
+        <a class="button" href="https://www.cs.albany.edu/~petko/lab/software/GIST_slides.pptx">
+          <i class="icon fa-solid fa-file-powerpoint"></i>
+          <span>Slides</span>
+        </a>
+      
+        <a class="button" href="https://www.cs.albany.edu/~petko/lab/software/GIST_poster.pptx">
+          <i class="icon fa-solid fa-file-powerpoint"></i>
+          <span>Poster</span>
+        </a>
+      
+    </div>
+  
+
+  
+    <p class="software-citation">
+      <span>Citation:</span>
+      B. Ma, M. McNeil and P. Bogdanov, <a href="https://www.cs.albany.edu/~petko/lab/papers/mmb2023sdm.pdf">“GIST: Graph Inference for Structured Time Series”</a>, SIAM International Conference on Data Mining (SDM), 2023.
+
+    </p>
+  
+</section>
+
+<section class="software-item">
+  <h3>Ag-DNA Nanocluster Design via VAEs [KDD'22]</h3>
+
+  
+    <div class="software-links">
+      
+        <a class="button" href="https://www.cs.albany.edu/~petko/lab/software/NANO-VAE.zip">
+          <i class="icon fa-brands fa-python"></i>
+          <span>Python Code</span>
+        </a>
+      
+    </div>
+  
+
+  
+    <p class="software-citation">
+      <span>Citation:</span>
+      F. Moomtaheen, M. Killeen, J. Oswald, A. Gonzalez-Rosell, P. Mastracco, A. Gorovits, S. Copp, and P. Bogdanov, <a href="https://www.cs.albany.edu/~petko/lab/papers/mkoggcb2022kdd.pdf">“DNA-Stabilized Silver Nanocluster Design via Regularized Variational Autoencoders”</a>, SIGKDD, 2022.
+
+    </p>
+  
+</section>
+
+<section class="software-item">
+  <h3>SAGA: Signal-Aware Graph Aggregation [SDM'22]</h3>
+
+  
+    <div class="software-links">
+      
+        <a class="button" href="https://www.cs.albany.edu/~petko/lab/software/SAGA.zip">
+          <i class="icon fa-solid fa-code"></i>
+          <span>Matlab Code</span>
+        </a>
+      
+    </div>
+  
+
+  
+    <p class="software-citation">
+      <span>Citation:</span>
+      Maxwell McNeil, Boya Ma and Petko Bogdanov. <a href="https://www.cs.albany.edu/~petko/lab/papers/mmb2022sdm.pdf">“SAGA: Signal-Aware Graph Aggregation.”</a> SIAM DM, Online, 2022.
+
+    </p>
+  
+</section>
+
+<section class="software-item">
+  <h3>Temporal Graph Signal Decomposition (TGSD) [KDD'21]</h3>
+
+  
+    <div class="software-links">
+      
+        <a class="button" href="https://www.cs.albany.edu/~petko/lab/software/TGSD.zip">
+          <i class="icon fa-solid fa-code"></i>
+          <span>Matlab Code</span>
+        </a>
+      
+    </div>
+  
+
+  
+    <p class="software-citation">
+      <span>Citation:</span>
+      Maxwell McNeil, Lin Zhang and Petko Bogdanov. <a href="https://www.cs.albany.edu/~petko/lab/papers/mzb2021kdd.pdf">“Temporal Graph Signal Decomposition.”</a> ACM International Conference on Knowledge Discovery and Data Mining, Online, 2021.
+
+    </p>
+  
+</section>
+
+<section class="software-item">
+  <h3>Mining Bursty Groups from Interaction Data (MYRON) [CIKM'21]</h3>
+
+  
+    <div class="software-links">
+      
+        <a class="button" href="https://www.cs.albany.edu/~petko/lab/software/MYRON.zip">
+          <i class="icon fa-solid fa-code"></i>
+          <span>Matlab Code</span>
+        </a>
+      
+    </div>
+  
+
+  
+    <p class="software-citation">
+      <span>Citation:</span>
+      Alexander Gorovits, Lin Zhang, Ekta Gujral, Evangelos Papalexakis and Petko Bogdanov. <a href="https://www.cs.albany.edu/~petko/lab/papers/gzgpb2021cikm.pdf">“Mining Bursty Groups from Interaction Data.”</a> ACM CIKM, 2021.
+
+    </p>
+  
+</section>
+
+<section class="software-item">
+  <h3>DSL [SDM'19]</h3>
+
+  
+    <div class="software-links">
+      
+        <a class="button" href="https://github.com/LIN-ZHANG-ALPHA/DSL-SDM19">
+          <i class="icon fa-brands fa-github"></i>
+          <span>DSL: Matlab code for graph signal classification</span>
+        </a>
+      
+    </div>
+  
+
+  
+    <p class="software-citation">
+      <span>Citation:</span>
+      Lin Zhang and Petko Bogdanov. <a href="https://www.cs.albany.edu/~petko/lab/papers/zbsdm2019.pdf">“DSL: Discriminative Subgraph Learning via Sparse Self-Representation.”</a> SIAM Data Mining, Calgary, Canada, 2019.
+
+    </p>
+  
+</section>
+
+<section class="software-item">
+  <h3>PERCeIDS [ICDM'19]</h3>
+
+  
+    <div class="software-links">
+      
+        <a class="button" href="https://github.com/LIN-ZHANG-ALPHA/PERCeIDs">
+          <i class="icon fa-brands fa-github"></i>
+          <span>PERCeID: Matlab code for periodic communities</span>
+        </a>
+      
+    </div>
+  
+
+  
+    <p class="software-citation">
+      <span>Citation:</span>
+      Lin Zhang, Alexander Gorovits, and Petko Bogdanov. <a href="https://www.cs.albany.edu/~petko/lab/papers/zgb2019icdm.pdf">“PERCeIDs: PERiodic CommunIty Detection.”</a> IEEE ICDM, Beijing, China, 2019.
+
+    </p>
+  
+</section>
+
+<section class="software-item">
+  <h3>LARC [KDD'18]</h3>
+
+  
+    <div class="software-links">
+      
+        <a class="button" href="https://www.cs.albany.edu/~petko/lab/software/LARC_CODE.zip">
+          <i class="icon fa-solid fa-code"></i>
+          <span>LARC Dynamic overlapping communities</span>
+        </a>
+      
+    </div>
+  
+
+  
+    <p class="software-citation">
+      <span>Citation:</span>
+      Alexander Gorovits, Ekta Gujral, Evangelos E. Papalexakis, Petko Bogdanov. <a href="https://www.cs.albany.edu/~petko/lab/papers/ggpbkdd2018.pdf">“LARC: Learning Activity-Regularized Overlapping Communities Across Time.”</a> ACM SIG KDD, London, UK, 2018.
+
+    </p>
+  
+</section>
+
+<section class="software-item">
+  <h3>Dynamic Community Mining, [ICDM'17]</h3>
+
+  
+    <div class="software-links">
+      
+        <a class="button" href="https://www.cs.albany.edu/~petko/lab/software/DynComm.zip">
+          <i class="icon fa-solid fa-code"></i>
+          <span>Dynamic Community Miner</span>
+        </a>
+      
+    </div>
+  
+
+  
+    <p class="software-citation">
+      <span>Citation:</span>
+      Daniel J. DiTursi, Gaurav Ghosh, Petko Bogdanov. <a href="https://www.cs.albany.edu/~petko/lab/papers/dgbicdm2017.pdf">“Local Community Detection in Dynamic Networks.”</a> IEEE International Conference on Data Mining (ICDM), New Orleans, USA, 2017.
+
+    </p>
+  
+</section>
+
+<section class="software-item">
+  <h3>Silver cluster stablizing DNA template design tool, [J. Advanced Materials'14]</h3>
+
+  
+    <div class="software-links">
+      
+        <a class="button" href="https://www.cs.albany.edu/~petko/lab/software/silver-clusters-master.zip">
+          <i class="icon fa-solid fa-code"></i>
+          <span>DNA Templates</span>
+        </a>
+      
+    </div>
+  
+
+  
+    <p class="software-citation">
+      <span>Citation:</span>
+      Stacy Copp, Petko Bogdanov, Mark Debord, Ambuj Singh, and Elisabeth Gwinn. <a href="https://www.cs.albany.edu/~petko/lab/papers/copp-adma-2014.pdf">“Base Motif Recognition and Design of DNA Templates for Fluorescent Silver Clusters by Machine Learning.”</a> Journal of Advanced Materials, 2014.
+
+    </p>
+  
+</section>
+
+<section class="software-item">
+  <h3>Anomalous Regions in Dynamic Networks [SDM'13]</h3>
+
+  
+    <div class="software-links">
+      
+        <a class="button" href="https://www.cs.albany.edu/~petko/lab/software/NetSpot_code_1_0_1.zip">
+          <i class="icon fa-solid fa-code"></i>
+          <span>NetSpot Source</span>
+        </a>
+      
+        <a class="button" href="https://www.cs.albany.edu/~petko/lab/software/NetSpot_exec_1_0_1.zip">
+          <i class="icon fa-solid fa-terminal"></i>
+          <span>NetSpot Executable</span>
+        </a>
+      
+    </div>
+  
+
+  
+    <p class="software-citation">
+      <span>Citation:</span>
+      Misael Mongiovi, Petko Bogdanov, Razvan Ranca, Ambuj K. Singh, Evangelos E. Papalexakis, and Christos Faloutsos. <a href="https://www.cs.albany.edu/~petko/lab/papers/mbrspf13.pdf">“NetSpot: Spotting Significant Anomalous Regions on Dynamic Networks.”</a> Proceedings of SIAM International Conference on Data Mining (SDM).
+
+    </p>
+  
+</section>
+
+<section class="software-item">
+  <h3>Diverse Clique Mining, [PKDD'13]</h3>
+
+  
+    <div class="software-links">
+      
+        <a class="button" href="https://www.cs.albany.edu/~petko/lab/software/Diverse-Cliques-PKDD13.tar.gz">
+          <i class="icon fa-solid fa-code"></i>
+          <span>Clique Miner</span>
+        </a>
+      
+    </div>
+  
+
+  
+    <p class="software-citation">
+      <span>Citation:</span>
+      Petko Bogdanov, Ben Baumer, Prithwish Basu, Amotz Bar-Noy, and Ambuj K. Singh. <a href="https://www.cs.albany.edu/~petko/lab/papers/bbbns13.pdf">“As Strong as the Weakest Link: Mining Diverse Cliques in Weighted Graphs.”</a> Proceedings of Machine Learning and Knowledge Discovery in Databases - European Conference (ECML/PKDD), 2013.
+
+    </p>
+  
+</section>
+
+<section class="software-item">
+  <h3>Mining Heavy Subgraphs in Time-Evolving Networks [ICDM'11]</h3>
+
+  
+    <div class="software-links">
+      
+        <a class="button" href="https://www.cs.albany.edu/~petko/lab/software/meden_1_0_1.zip">
+          <i class="icon fa-solid fa-code"></i>
+          <span>MEDEN Source</span>
+        </a>
+      
+        <a class="button" href="https://www.cs.albany.edu/~petko/lab/software/meden_binary_1_0_1.zip">
+          <i class="icon fa-solid fa-terminal"></i>
+          <span>MEDEN Executable</span>
+        </a>
+      
+    </div>
+  
+
+  
+    <p class="software-citation">
+      <span>Citation:</span>
+      Petko Bogdanov, Misael Mongiovi, and Ambuj K. Singh. <a href="https://www.cs.albany.edu/~petko/lab/papers/bms11.pdf">“Mining Heavy Subgraphs in Time-Evolving Networks.”</a> In Proceedings of the IEEE International Conference on Data Mining (ICDM), 2011.
+
+    </p>
+  
+</section>
+  </section>
+
+
+    </main>
+    
+
+
+<footer class="background" style="--image: url('/dmm-lab-website/images/background.jpg')" data-dark="true" data-size="wide">
+  
+
+  <div>
+    <a href="https://www.albany.edu/computer-science">
+      Department of Computer Science
+    </a>,
+    <a href="https://www.albany.edu/ceas/">
+      College of Engineering and Applied Sciences
+    </a>
+    at
+    <a href="https://www.albany.edu/">
+      University at Albany - SUNY
+    </a>
+      |   Built with
+    <a href="https://github.com/greenelab/lab-website-template">
+      Lab Website Template
+    </a>
+  </div>
+
+  <input type="checkbox" class="dark-toggle" data-tooltip="Dark mode" aria-label="toggle dark mode" oninput="onDarkToggleChange(event)">
+</footer>
+
+  </body>
+</html>
