@@ -20,6 +20,11 @@ defaults:
       type: "members"
     values:
       layout: member
+  # markdown files in /_research
+  - scope:
+      type: "research"
+    values:
+      layout: default
   # markdown files in /_posts
   - scope:
       type: "posts"
@@ -30,6 +35,9 @@ collections:
   # generate page for each member
   members:
     output: true
+  # research project records
+  research:
+    output: false
   # generate page for each post
   posts:
     output: true
