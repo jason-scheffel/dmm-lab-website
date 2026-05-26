@@ -6,10 +6,6 @@ header: images/background.jpg
 footer: images/background.jpg
 proofer: false
 
-# site social media and other links
-links:
-  website: https://www.cs.albany.edu/~petko/lab/
-
 ### jekyll settings
 
 # front matter defaults
