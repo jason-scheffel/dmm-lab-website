@@ -1,0 +1,123 @@
+# DO NOT EDIT, GENERATED AUTOMATICALLY
+
+- id: arxiv:2309.09717
+  title: Multi-Dictionary Tensor Decomposition
+  authors:
+  - Maxwell McNeil
+  - Petko Bogdanov
+  publisher: arXiv
+  date: '2023-09-19'
+  link: https://arxiv.org/abs/2309.09717
+  type: paper
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1021/acsnano.2c05390
+  title: Chemistry-Informed Machine Learning Enables Discovery of DNA-Stabilized Silver
+    Nanoclusters with Near-Infrared Fluorescence
+  authors:
+  - Peter Mastracco
+  - "Anna Gonz\xE0lez-Rosell"
+  - Joshua Evans
+  - Petko Bogdanov
+  - Stacy M. Copp
+  publisher: ACS Nano
+  date: '2022-09-20'
+  link: https://pubs.acs.org/doi/full/10.1021/acsnano.2c05390
+  type: paper
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1145/3427384.3427386
+  title: Supporting Resilience in Rural Emergency Preparedness and Response Through
+    Improved Information Access
+  authors:
+  - Karyn Doke
+  - Qianli Yuan
+  - Mila Gasco-Hernandez
+  - Megan Sutherland-Mitzer
+  - J. Ramon Gil-Garcia
+  - Petko Bogdanov
+  - Mariya Zheleva
+  publisher: 'GetMobile: Mobile Computing and Communications'
+  date: '2020-09-29'
+  link: https://dl.acm.org/doi/10.1145/3427384.3427386
+  type: paper
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1109/INFCOMW.2018.8407002
+  title: Efficient spectrum summarization using compressed spectrum scans
+  authors:
+  - Mariya Zheleva
+  - Timothy Larock
+  - Paul Schmitt
+  - Petko Bogdanov
+  publisher: IEEE INFOCOM 2018 - IEEE Conference on Computer Communications Workshops
+    (INFOCOM WKSHPS)
+  date: '2018-04-01'
+  link: https://www.cs.albany.edu/~petko/lab/papers/zlsinfocomws2018.pdf
+  type: paper
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1063/1.5023258
+  title: Adaptation of a visible wavelength fluorescence microplate reader for discovery
+    of near-infrared fluorescent probes
+  authors:
+  - Steven M. Swasey
+  - Hunter C. Nicholson
+  - Stacy M. Copp
+  - Petko Bogdanov
+  - Alexander Gorovits
+  - Elisabeth G. Gwinn
+  publisher: Review of Scientific Instruments
+  date: '2018-09-01'
+  link: https://aip.scitation.org/doi/10.1063/1.5023258
+  type: paper
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1021/acsnano.8b03404
+  title: Fluorescence Color by Data-Driven Design of Genomic Silver Clusters
+  authors:
+  - Stacy M. Copp
+  - Alexander Gorovits
+  - Steven M. Swasey
+  - Sruthi Gudibandi
+  - Petko Bogdanov
+  - Elisabeth G. Gwinn
+  publisher: ACS Nano
+  date: '2018-07-30'
+  link: https://pubs.acs.org/doi/abs/10.1021/acsnano.8b03404
+  type: paper
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1039/C8NR05781H
+  title: High throughput near infrared screening discovers DNA-templated silver clusters
+    with peak fluorescence beyond 950 nm
+  authors:
+  - Steven M. Swasey
+  - Stacy M. Copp
+  - Hunter C. Nicholson
+  - Alexander Gorovits
+  - Petko Bogdanov
+  - Elisabeth G. Gwinn
+  publisher: Nanoscale
+  date: '2018-01-01'
+  link: https://pubs.rsc.org/en/content/articlelanding/2018/nr/c8nr05781h
+  type: paper
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1007/978-3-319-43513-8_2
+  title: 'Systems Biology: Salivary Gland Development, Disease, and Regenerative Medicine'
+  authors:
+  - Melinda Larsen
+  - Petko Bogdanov
+  - Ravi Sood
+  - Hae Ryong Kwon
+  - Deirdre A. Nelson
+  - Connor Duffy
+  - Sarah B. Peters
+  - Sridar V. Chittur
+  publisher: Salivary Gland Development and Regeneration
+  date: '2017-01-01'
+  link: https://link.springer.com/chapter/10.1007/978-3-319-43513-8_2
+  type: paper
+  plugin: sources.py
+  file: sources.yaml
