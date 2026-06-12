@@ -19,7 +19,7 @@ University at Albany
 1400 Washington Ave, UAB 416  
 Albany, NY 12222
 
-Email: first name initial + last name at albany dot edu
+Email: pbogdanov at albany dot edu
 
 ## Education
 
@@ -29,7 +29,7 @@ Email: first name initial + last name at albany dot edu
 
 ## Research
 
-I am broadly interested in data mining and specifically in algorithms for learning from graph data. Beyond algorithm design, I am equally excited about applications of data mining in biology, nanomaterial design, emergency preparedness, wireless networks and network science. For details, head to our [research group]({{ "/research/" | relative_url }}) page.
+I am broadly interested in data mining and specifically in algorithms for learning from graph data. Beyond algorithm design, I am equally excited about applications of data mining in biology, nanomaterial design, emergency preparedness, wireless networks and network science. For details, head to our [research group](https://jason-scheffel.github.io/dmm-lab-website/) page.
 
 ## Prospective Students
 
