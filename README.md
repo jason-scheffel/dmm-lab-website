@@ -25,7 +25,7 @@ Built with the [Lab Website Template](https://greene-lab.gitbook.io/lab-website-
 3. In the new repository, go to `Settings -> Actions -> General`.
 4. Under `Workflow permissions`, select `Read and write permissions` and enable `Allow GitHub Actions to create and approve pull requests`.
 5. Go to `Settings -> Secrets and variables -> Actions`.
-6. Add a repository secret named `GOOGLE_SCHOLAR_API_KEY` with a SerpAPI key as the value.
+6. Sign up for [SerpAPI](https://serpapi.com/) and copy the API key from the [dashboard](https://serpapi.com/dashboard). Add it as a repository secret named `GOOGLE_SCHOLAR_API_KEY`.
 7. Push to `main`, or manually run `on-push`, to build the live site and create or update the `gh-pages` branch.
 8. Go to `Settings -> Pages` and set GitHub Pages to deploy from the `gh-pages` branch. Wait for the Pages build to finish.
 
