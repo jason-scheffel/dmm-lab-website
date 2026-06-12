@@ -22,6 +22,8 @@ redirect_from:
 <div class="person-list">
   {% include person.html lookup="elham-sadeghi" %}
   {% include person.html lookup="boya-ma" %}
+  {% include person.html lookup="xianqi-deng" %}
+  {% include person.html lookup="sree-shrit-dande" %}
 </div>
 
 {% include section.html %}
