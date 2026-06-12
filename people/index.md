@@ -32,6 +32,10 @@ redirect_from:
 
 <div class="person-list">
   {% include person.html lookup="max-solomon" %}
+  {% include person.html lookup="jason-scheffel" %}
+  {% include person.html lookup="garima-yadav" %}
+  {% include person.html lookup="lukasz-siuba" %}
+  {% include person.html lookup="zihao-li" %}
 </div>
 
 {% include section.html %}
