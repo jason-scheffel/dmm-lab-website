@@ -10,12 +10,30 @@ Built with the [Lab Website Template](https://greene-lab.gitbook.io/lab-website-
 
 ## Table of Contents
 
+- [Deploy This Site](#deploy-this-site)
 - [Modify Content](#modify-content)
 - [People](#people)
 - [Research](#research)
 - [Publications](#publications)
 - [Grants](#grants)
 - [Software](#software)
+
+## Deploy This Site
+
+1. Create an empty public GitHub repository under the account that should own the site.
+2. Push this repository to that new GitHub repository.
+3. In the new repository, go to `Settings -> Actions -> General`.
+4. Under `Workflow permissions`, select `Read and write permissions` and enable `Allow GitHub Actions to create and approve pull requests`.
+5. Go to `Settings -> Secrets and variables -> Actions`.
+6. Add a repository secret named `GOOGLE_SCHOLAR_API_KEY` with a SerpAPI key as the value.
+7. Push to `main`, or manually run `on-push`, to build the live site and create or update the `gh-pages` branch.
+8. Go to `Settings -> Pages` and set GitHub Pages to deploy from the `gh-pages` branch. Wait for the Pages build to finish.
+
+The default site URL will be:
+
+```text
+https://<github-username>.github.io/<repo-name>/
+```
 
 ## Modify Content
 
@@ -42,7 +60,7 @@ links:
   home-page: https://example.com
 ---
 
-Short bio goes here.
+Research summary tbd.
 ```
 
 Then add this line under `## Faculty` in `people/index.md`:
@@ -125,9 +143,7 @@ Do **not** edit `_data/citations.yaml`. That file is generated automatically by 
 
 Use `_data/sources.yaml` for manual additions, corrections, or removals.
 
-If Google Scholar misses a paper and the paper has a DOI, arXiv ID, or another identifier supported by [Manubot](https://github.com/manubot/manubot/blob/main/manubot/cite/handlers.py#L155), add one entry:
-
-Add one entry to `_data/sources.yaml`:
+If Google Scholar misses a paper and the paper has a DOI, arXiv ID, or another identifier supported by [Manubot](https://github.com/manubot/manubot/blob/main/manubot/cite/handlers.py#L155), add one entry to `_data/sources.yaml`:
 
 ```yaml
 - id: doi:10.xxxx/example
