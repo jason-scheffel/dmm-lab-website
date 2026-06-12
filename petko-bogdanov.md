@@ -1,5 +1,6 @@
 ---
 title: Petko Bogdanov
+permalink: /petko-bogdanov/
 ---
 
 # Petko Bogdanov
