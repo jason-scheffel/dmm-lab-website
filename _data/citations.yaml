@@ -1,3 +1,1460 @@
 # DO NOT EDIT, GENERATED AUTOMATICALLY
 
-[]
+- id: UBpC3u0AAAAJ:MXK_kJrjxJIC
+  title: 'Topic models: What they are and why they matter'
+  authors:
+  - JW Mohr
+  - P Bogdanov
+  publisher: Poetics 41 (6), 545-569, 2013
+  date: '2013-01-01'
+  link: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=UBpC3u0AAAAJ&pagesize=100&citation_for_view=UBpC3u0AAAAJ:MXK_kJrjxJIC
+  gsid: UBpC3u0AAAAJ
+  petko-bogdanov: true
+  type: paper
+  plugin: google-scholar.py
+  file: google-scholar.yaml
+- id: UBpC3u0AAAAJ:3fE2CSJIrl8C
+  title: 'Graphing the grammar of motives in National Security Strategies: Cultural
+    interpretation, automated text analysis and the drama of global politics'
+  authors:
+  - JW Mohr
+  - R Wagner-Pacifici
+  - RL Breiger
+  - P Bogdanov
+  publisher: Poetics 41 (6), 670-700, 2013
+  date: '2013-01-01'
+  link: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=UBpC3u0AAAAJ&pagesize=100&citation_for_view=UBpC3u0AAAAJ:3fE2CSJIrl8C
+  gsid: UBpC3u0AAAAJ
+  petko-bogdanov: true
+  type: paper
+  plugin: google-scholar.py
+  file: google-scholar.yaml
+- id: UBpC3u0AAAAJ:ufrVoPGSRksC
+  title: 'NetSpot: Spotting Significant Anomalous Regions on Dynamic Networks'
+  authors:
+  - "M Mongiov\u0131"
+  - P Bogdanov
+  - R Ranca
+  - EE Papalexakis
+  - C Faloutsos
+  - '...'
+  publisher: SIAM International Conference on Data Mining (SDM 2013), 2013
+  date: '2013-01-01'
+  link: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=UBpC3u0AAAAJ&pagesize=100&citation_for_view=UBpC3u0AAAAJ:ufrVoPGSRksC
+  gsid: UBpC3u0AAAAJ
+  petko-bogdanov: true
+  type: paper
+  plugin: google-scholar.py
+  file: google-scholar.yaml
+- id: UBpC3u0AAAAJ:2osOgNQ5qMEC
+  title: Mining Heavy Subgraphs in Time-Evolving Networks
+  authors:
+  - P Bogdanov
+  - "M Mongiov\u0131"
+  - AK Singh
+  publisher: IEEE International conference on data mining (ICDM), 2011
+  date: '2011-01-01'
+  link: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=UBpC3u0AAAAJ&pagesize=100&citation_for_view=UBpC3u0AAAAJ:2osOgNQ5qMEC
+  gsid: UBpC3u0AAAAJ
+  petko-bogdanov: true
+  type: paper
+  plugin: google-scholar.py
+  file: google-scholar.yaml
+- id: UBpC3u0AAAAJ:3NQIlFlcGxIC
+  title: Base Motif Recognition and Design of DNA Templates for Fluorescent Silver
+    Clusters by Machine Learning
+  authors:
+  - SM Copp
+  - P Bogdanov
+  - M Debord
+  - AK Singh
+  - E Gwinn
+  publisher: Advanced Materials, 2014
+  date: '2014-01-01'
+  link: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=UBpC3u0AAAAJ&pagesize=100&citation_for_view=UBpC3u0AAAAJ:3NQIlFlcGxIC
+  gsid: UBpC3u0AAAAJ
+  petko-bogdanov: true
+  type: paper
+  plugin: google-scholar.py
+  file: google-scholar.yaml
+- id: UBpC3u0AAAAJ:-95Q15plzcUC
+  title: Fluorescence color by data-driven design of genomic silver clusters
+  authors:
+  - SM Copp
+  - A Gorovits
+  - SM Swasey
+  - S Gudibandi
+  - P Bogdanov
+  - EG Gwinn
+  publisher: ACS nano 12 (8), 8240-8247, 2018
+  date: '2018-01-01'
+  link: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=UBpC3u0AAAAJ&pagesize=100&citation_for_view=UBpC3u0AAAAJ:-95Q15plzcUC
+  gsid: UBpC3u0AAAAJ
+  petko-bogdanov: true
+  type: paper
+  plugin: google-scholar.py
+  file: google-scholar.yaml
+- id: UBpC3u0AAAAJ:u5HHmVD_uO8C
+  title: Molecular function prediction using neighborhood features
+  authors:
+  - P Bogdanov
+  - AK Singh
+  publisher: "IEEE/ACM Transactions on Computational Biology and Bioinformatics (TCBB)\
+    \ 7 \u2026, 2010"
+  date: '2010-01-01'
+  link: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=UBpC3u0AAAAJ&pagesize=100&citation_for_view=UBpC3u0AAAAJ:u5HHmVD_uO8C
+  gsid: UBpC3u0AAAAJ
+  petko-bogdanov: true
+  type: paper
+  plugin: google-scholar.py
+  file: google-scholar.yaml
+- id: UBpC3u0AAAAJ:hSRAE-fF4OAC
+  title: Chemistry-informed machine learning enables discovery of DNA-stabilized silver
+    nanoclusters with near-infrared fluorescence
+  authors:
+  - P Mastracco
+  - "A Gonz\xE0lez-Rosell"
+  - J Evans
+  - P Bogdanov
+  - SM Copp
+  publisher: ACS nano 16 (10), 16322-16331, 2022
+  date: '2022-01-01'
+  link: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=UBpC3u0AAAAJ&pagesize=100&citation_for_view=UBpC3u0AAAAJ:hSRAE-fF4OAC
+  gsid: UBpC3u0AAAAJ
+  petko-bogdanov: true
+  type: paper
+  plugin: google-scholar.py
+  file: google-scholar.yaml
+- id: UBpC3u0AAAAJ:yxmsSjX2EkcC
+  title: Modeling individual topic-specific behavior and influence backbone networks
+    in social media
+  authors:
+  - P Bogdanov
+  - M Busch
+  - J Moehlis
+  - AK Singh
+  - BK Szymanski
+  publisher: Social Network Analysis and Mining 4 (1), 204, 2014
+  date: '2014-01-01'
+  link: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=UBpC3u0AAAAJ&pagesize=100&citation_for_view=UBpC3u0AAAAJ:yxmsSjX2EkcC
+  gsid: UBpC3u0AAAAJ
+  petko-bogdanov: true
+  type: paper
+  plugin: google-scholar.py
+  file: google-scholar.yaml
+- id: UBpC3u0AAAAJ:DkZNVXde3BIC
+  title: General approach for machine learning-aided design of DNA-stabilized silver
+    clusters
+  authors:
+  - SM Copp
+  - SM Swasey
+  - A Gorovits
+  - P Bogdanov
+  - EG Gwinn
+  publisher: Chemistry of Materials 32 (1), 430-437, 2019
+  date: '2019-01-01'
+  link: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=UBpC3u0AAAAJ&pagesize=100&citation_for_view=UBpC3u0AAAAJ:DkZNVXde3BIC
+  gsid: UBpC3u0AAAAJ
+  petko-bogdanov: true
+  type: paper
+  plugin: google-scholar.py
+  file: google-scholar.yaml
+- id: UBpC3u0AAAAJ:KNjnJ3z-R6IC
+  title: High throughput near infrared screening discovers DNA-templated silver clusters
+    with peak fluorescence beyond 950 nm
+  authors:
+  - SM Swasey
+  - SM Copp
+  - HC Nicholson
+  - A Gorovits
+  - P Bogdanov
+  - EG Gwinn
+  publisher: Nanoscale 10 (42), 19701-19705, 2018
+  date: '2018-01-01'
+  link: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=UBpC3u0AAAAJ&pagesize=100&citation_for_view=UBpC3u0AAAAJ:KNjnJ3z-R6IC
+  gsid: UBpC3u0AAAAJ
+  petko-bogdanov: true
+  type: paper
+  plugin: google-scholar.py
+  file: google-scholar.yaml
+- id: UBpC3u0AAAAJ:Se3iqnhoufwC
+  title: 'The Social Media Genome: Modeling Individual Topic-Specific Behavior in
+    Social Media'
+  authors:
+  - P Bogdanov
+  - M Busch
+  - J Moehlis
+  - AK Singh
+  - BK Szymanski
+  publisher: "IEEE/ACM International Conference on Advances in Social Networks Analysis\
+    \ \u2026, 2013"
+  date: '2013-01-01'
+  link: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=UBpC3u0AAAAJ&pagesize=100&citation_for_view=UBpC3u0AAAAJ:Se3iqnhoufwC
+  gsid: UBpC3u0AAAAJ
+  petko-bogdanov: true
+  type: paper
+  plugin: google-scholar.py
+  file: google-scholar.yaml
+- id: UBpC3u0AAAAJ:HGTzPopzzJcC
+  title: Local Community Detection in Dynamic Networks
+  authors:
+  - DJ DiTursi
+  - G Ghosh
+  - P Bogdanov
+  publisher: "Proceedings of the IEEE International Conference on Data Mining (ICDM),\
+    \ New \u2026, 2017"
+  date: '2017-01-01'
+  link: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=UBpC3u0AAAAJ&pagesize=100&citation_for_view=UBpC3u0AAAAJ:HGTzPopzzJcC
+  gsid: UBpC3u0AAAAJ
+  petko-bogdanov: true
+  type: paper
+  plugin: google-scholar.py
+  file: google-scholar.yaml
+- id: UBpC3u0AAAAJ:5nxA0vEk-isC
+  title: Mining evolving network processes
+  authors:
+  - "M Mongiov\u0131"
+  - P Bogdanov
+  - AK Singh
+  publisher: IEEE 13th International Conference on Data Mining (ICDM), 2013, 2013
+  date: '2013-01-01'
+  link: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=UBpC3u0AAAAJ&pagesize=100&citation_for_view=UBpC3u0AAAAJ:5nxA0vEk-isC
+  gsid: UBpC3u0AAAAJ
+  petko-bogdanov: true
+  type: paper
+  plugin: google-scholar.py
+  file: google-scholar.yaml
+- id: UBpC3u0AAAAJ:WAzi4Gm8nLoC
+  title: A Distance Measure for the Analysis of Polar Opinion Dynamics in Social Networks
+  authors:
+  - V Amelkin
+  - P Bogdanov
+  - AK Singh
+  publisher: ACM Transactions on Knowledge Discovery from Data (TKDD), 2019
+  date: '2019-01-01'
+  link: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=UBpC3u0AAAAJ&pagesize=100&citation_for_view=UBpC3u0AAAAJ:WAzi4Gm8nLoC
+  gsid: UBpC3u0AAAAJ
+  petko-bogdanov: true
+  type: paper
+  plugin: google-scholar.py
+  file: google-scholar.yaml
+- id: UBpC3u0AAAAJ:ce2CqMG-AY4C
+  title: 'LARC: Learning Activity-Regularized Overlapping Communities Across Time'
+  authors:
+  - A Gorovits
+  - E Gurjal
+  - EE Papalexakis
+  - P Bogdanov
+  publisher: ACM International Conference on Knowledge Discovery and Data Mining (ACM
+    SIGKDD), 2018
+  date: '2018-01-01'
+  link: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=UBpC3u0AAAAJ&pagesize=100&citation_for_view=UBpC3u0AAAAJ:ce2CqMG-AY4C
+  gsid: UBpC3u0AAAAJ
+  petko-bogdanov: true
+  type: paper
+  plugin: google-scholar.py
+  file: google-scholar.yaml
+- id: UBpC3u0AAAAJ:mUJArPsKIAAC
+  title: Robust and Efficient Modulation Recognition Based on Local Sequential IQ
+    Features
+  authors:
+  - W Xiong
+  - P Bogdanov
+  - M Zheleva
+  publisher: IEEE International Conference on Computer Communications (IEEE INFOCOM
+    2019), 2019
+  date: '2019-01-01'
+  link: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=UBpC3u0AAAAJ&pagesize=100&citation_for_view=UBpC3u0AAAAJ:mUJArPsKIAAC
+  gsid: UBpC3u0AAAAJ
+  petko-bogdanov: true
+  type: paper
+  plugin: google-scholar.py
+  file: google-scholar.yaml
+- id: UBpC3u0AAAAJ:jE2MZjpN3IcC
+  title: 'Smallholder agriculture in the information age: Limits and opportunities'
+  authors:
+  - M Zheleva
+  - P Bogdanov
+  - DS Zois
+  - W Xiong
+  - R Chandra
+  - M Kimball
+  publisher: Proceedings of the 2017 Workshop on Computing within Limits, 59-70, 2017
+  date: '2017-01-01'
+  link: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=UBpC3u0AAAAJ&pagesize=100&citation_for_view=UBpC3u0AAAAJ:jE2MZjpN3IcC
+  gsid: UBpC3u0AAAAJ
+  petko-bogdanov: true
+  type: paper
+  plugin: google-scholar.py
+  file: google-scholar.yaml
+- id: UBpC3u0AAAAJ:zYLM7Y9cAGgC
+  title: Towards community discovery in signed collaborative interaction networks
+  authors:
+  - P Bogdanov
+  - ND Larusso
+  - A Singh
+  publisher: 2010 IEEE International Conference on Data Mining Workshops, 288-295,
+    2010
+  date: '2010-01-01'
+  link: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=UBpC3u0AAAAJ&pagesize=100&citation_for_view=UBpC3u0AAAAJ:zYLM7Y9cAGgC
+  gsid: UBpC3u0AAAAJ
+  petko-bogdanov: true
+  type: paper
+  plugin: google-scholar.py
+  file: google-scholar.yaml
+- id: UBpC3u0AAAAJ:0EnyYjriUFMC
+  title: Accurate and Scalable Nearest Neighbors in Large Networks Based on Effective
+    Importance
+  authors:
+  - P Bogdanov
+  - A Singh
+  publisher: ACM International Conference on Information and Knowledge Management
+    (CIKM), 2013
+  date: '2013-01-01'
+  link: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=UBpC3u0AAAAJ&pagesize=100&citation_for_view=UBpC3u0AAAAJ:0EnyYjriUFMC
+  gsid: UBpC3u0AAAAJ
+  petko-bogdanov: true
+  type: paper
+  plugin: google-scholar.py
+  file: google-scholar.yaml
+- id: UBpC3u0AAAAJ:hqOjcs7Dif8C
+  title: 'As Strong as the Weakest Link: Mining Diverse Cliques in Weighted Graphs'
+  authors:
+  - P Bogdanov
+  - B Baumer
+  - P Basu
+  - A Bar-Noy
+  - AK Singh
+  publisher: Machine Learning and Knowledge Discovery in Databases ECML / PKDD, 525-540,
+    2013
+  date: '2013-01-01'
+  link: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=UBpC3u0AAAAJ&pagesize=100&citation_for_view=UBpC3u0AAAAJ:hqOjcs7Dif8C
+  gsid: UBpC3u0AAAAJ
+  petko-bogdanov: true
+  type: paper
+  plugin: google-scholar.py
+  file: google-scholar.yaml
+- id: UBpC3u0AAAAJ:AXkvAH5U_nMC
+  title: 'Special issue title: Topic models and the cultural sciences'
+  authors:
+  - JW Mohr
+  - P Bogdanov
+  publisher: Poetics 41 (6), 545-569, 2013
+  date: '2013-01-01'
+  link: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=UBpC3u0AAAAJ&pagesize=100&citation_for_view=UBpC3u0AAAAJ:AXkvAH5U_nMC
+  gsid: UBpC3u0AAAAJ
+  petko-bogdanov: true
+  type: paper
+  plugin: google-scholar.py
+  file: google-scholar.yaml
+- id: UBpC3u0AAAAJ:O0nohqN1r9EC
+  title: Adaptation of a visible wavelength fluorescence microplate reader for discovery
+    of near-infrared fluorescent probes
+  authors:
+  - SM Swasey
+  - HC Nicholson
+  - SM Copp
+  - P Bogdanov
+  - A Gorovits
+  - EG Gwinn
+  publisher: Review of Scientific Instruments 89 (9), 2018
+  date: '2018-01-01'
+  link: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=UBpC3u0AAAAJ&pagesize=100&citation_for_view=UBpC3u0AAAAJ:O0nohqN1r9EC
+  gsid: UBpC3u0AAAAJ
+  petko-bogdanov: true
+  type: paper
+  plugin: google-scholar.py
+  file: google-scholar.yaml
+- id: UBpC3u0AAAAJ:LXmCCkuhhTsC
+  title: Temporal graph signal decomposition
+  authors:
+  - MJ McNeil
+  - L Zhang
+  - P Bogdanov
+  publisher: "Proceedings of the 27th ACM SIGKDD conference on knowledge discovery\
+    \ & data \u2026, 2021"
+  date: '2021-01-01'
+  link: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=UBpC3u0AAAAJ&pagesize=100&citation_for_view=UBpC3u0AAAAJ:LXmCCkuhhTsC
+  gsid: UBpC3u0AAAAJ
+  petko-bogdanov: true
+  type: paper
+  plugin: google-scholar.py
+  file: google-scholar.yaml
+- id: UBpC3u0AAAAJ:Ade32sEp0pkC
+  title: Hierarchical in-network attribute compression via importance sampling
+  authors:
+  - A Silva
+  - P Bogdanov
+  - AK Singh
+  publisher: IEEE 31st International Conference on Data Engineering (ICDE), 2015,
+    951-962, 2015
+  date: '2015-01-01'
+  link: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=UBpC3u0AAAAJ&pagesize=100&citation_for_view=UBpC3u0AAAAJ:Ade32sEp0pkC
+  gsid: UBpC3u0AAAAJ
+  petko-bogdanov: true
+  type: paper
+  plugin: google-scholar.py
+  file: google-scholar.yaml
+- id: UBpC3u0AAAAJ:-jrNzM816MMC
+  title: 'AirVIEW: Unsupervised transmitter detection for next generation spectrum
+    sensing'
+  authors:
+  - M Zheleva
+  - T Larock
+  - P Schmitt
+  - P Bogdanov
+  publisher: IEEE International Conference on Computer Communications (IEEE INFOCOM
+    2018), 2018
+  date: '2018-01-01'
+  link: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=UBpC3u0AAAAJ&pagesize=100&citation_for_view=UBpC3u0AAAAJ:-jrNzM816MMC
+  gsid: UBpC3u0AAAAJ
+  petko-bogdanov: true
+  type: paper
+  plugin: google-scholar.py
+  file: google-scholar.yaml
+- id: UBpC3u0AAAAJ:QyXJ3EUuO1IC
+  title: 'Learning about Learning: Mining Human Brain Sub-Network Biomarkers from
+    fMRI Data'
+  authors:
+  - P Bogdanov
+  - N Dereli
+  - XH Dang
+  - DS Bassett
+  - NF Wymbs
+  - ST Grafton
+  - '...'
+  publisher: PLoS One 12 (10), 1-22, 2017
+  date: '2017-01-01'
+  link: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=UBpC3u0AAAAJ&pagesize=100&citation_for_view=UBpC3u0AAAAJ:QyXJ3EUuO1IC
+  gsid: UBpC3u0AAAAJ
+  petko-bogdanov: true
+  type: paper
+  plugin: google-scholar.py
+  file: google-scholar.yaml
+- id: UBpC3u0AAAAJ:kzcSZmkxUKAC
+  title: 'PERCeIDs: Periodic community detection.'
+  authors:
+  - L Zhang
+  - A Gorovits
+  - P Bogdanov
+  publisher: 2019 IEEE International Conference on Data Mining (ICDM), 816 - 825,
+    2019
+  date: '2019-01-01'
+  link: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=UBpC3u0AAAAJ&pagesize=100&citation_for_view=UBpC3u0AAAAJ:kzcSZmkxUKAC
+  gsid: UBpC3u0AAAAJ
+  petko-bogdanov: true
+  type: paper
+  plugin: google-scholar.py
+  file: google-scholar.yaml
+- id: UBpC3u0AAAAJ:AYInfyleIOsC
+  title: Multi-objective design of DNA-stabilized nanoclusters using variational autoencoders
+    with automatic feature extraction
+  authors:
+  - E Sadeghi
+  - P Mastracco
+  - "A Gonz\xE0lez-Rosell"
+  - SM Copp
+  - P Bogdanov
+  publisher: ACS nano 18 (39), 26997-27008, 2024
+  date: '2024-01-01'
+  link: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=UBpC3u0AAAAJ&pagesize=100&citation_for_view=UBpC3u0AAAAJ:AYInfyleIOsC
+  gsid: UBpC3u0AAAAJ
+  petko-bogdanov: true
+  type: paper
+  plugin: google-scholar.py
+  file: google-scholar.yaml
+- id: UBpC3u0AAAAJ:UebtZRa9Y70C
+  title: 'I act, therefore I judge: Network sentiment dynamics based on user activity
+    change'
+  authors:
+  - K Macropol
+  - P Bogdanov
+  - AK Singh
+  - L Petzold
+  - X Yan
+  publisher: "IEEE/ACM International Conference on Advances in Social Networks Analysis\
+    \ \u2026, 2013"
+  date: '2013-01-01'
+  link: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=UBpC3u0AAAAJ&pagesize=100&citation_for_view=UBpC3u0AAAAJ:UebtZRa9Y70C
+  gsid: UBpC3u0AAAAJ
+  petko-bogdanov: true
+  type: paper
+  plugin: google-scholar.py
+  file: google-scholar.yaml
+- id: UBpC3u0AAAAJ:6_hjMsCP8ZoC
+  title: Towards scalable network delay minimization
+  authors:
+  - S Medya
+  - P Bogdanov
+  - A Singh
+  publisher: 2016 IEEE 16th International Conference on Data Mining (ICDM), 1083-1088,
+    2016
+  date: '2016-01-01'
+  link: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=UBpC3u0AAAAJ&pagesize=100&citation_for_view=UBpC3u0AAAAJ:6_hjMsCP8ZoC
+  gsid: UBpC3u0AAAAJ
+  petko-bogdanov: true
+  type: paper
+  plugin: google-scholar.py
+  file: google-scholar.yaml
+- id: UBpC3u0AAAAJ:PkcyUWeTMh0C
+  title: 'AURORA: A Unified fRamework fOR Anomaly detection on multivariate time series'
+  authors:
+  - L Zhang
+  - W Zhang
+  - MJ McNeil
+  - N Chengwang
+  - DS Matteson
+  - P Bogdanov
+  publisher: "European Conference on Machine Learning and Principles and Practice\
+    \ of \u2026, 2021"
+  date: '2021-01-01'
+  link: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=UBpC3u0AAAAJ&pagesize=100&citation_for_view=UBpC3u0AAAAJ:PkcyUWeTMh0C
+  gsid: UBpC3u0AAAAJ
+  petko-bogdanov: true
+  type: paper
+  plugin: google-scholar.py
+  file: google-scholar.yaml
+- id: UBpC3u0AAAAJ:CdxZDUztZiMC
+  title: Discriminative Subnetworks with Regularized Spectral Learning for Global-state
+    Network Data
+  authors:
+  - XH Dang
+  - AK Singh
+  - P Bogdanov
+  - H You
+  - B Hsu
+  publisher: ECML/PKDD, 2014
+  date: '2014-01-01'
+  link: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=UBpC3u0AAAAJ&pagesize=100&citation_for_view=UBpC3u0AAAAJ:CdxZDUztZiMC
+  gsid: UBpC3u0AAAAJ
+  petko-bogdanov: true
+  type: paper
+  plugin: google-scholar.py
+  file: google-scholar.yaml
+- id: UBpC3u0AAAAJ:QsaTk4IG4EwC
+  title: Improving emergency preparedness and response in rural areas
+  authors:
+  - K Doke
+  - HO Affinnih
+  - Q Yuan
+  - M Gasco-Hernandez
+  - JR Gil-Garcia
+  - '...'
+  publisher: "Proceedings of the 4th ACM SIGCAS Conference on Computing and Sustainable\
+    \ \u2026, 2021"
+  date: '2021-01-01'
+  link: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=UBpC3u0AAAAJ&pagesize=100&citation_for_view=UBpC3u0AAAAJ:QsaTk4IG4EwC
+  gsid: UBpC3u0AAAAJ
+  petko-bogdanov: true
+  type: paper
+  plugin: google-scholar.py
+  file: google-scholar.yaml
+- id: UBpC3u0AAAAJ:OBSaB-F7qqsC
+  title: 'Network Clocks: Detecting the Temporal Scale of Information Diffusion'
+  authors:
+  - DJ DiTursi
+  - G Katsios
+  - P Bogdanov
+  publisher: "Proceedings of the IEEE International Conference on Data Mining (ICDM),\
+    \ New \u2026, 2017"
+  date: '2017-01-01'
+  link: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=UBpC3u0AAAAJ&pagesize=100&citation_for_view=UBpC3u0AAAAJ:OBSaB-F7qqsC
+  gsid: UBpC3u0AAAAJ
+  petko-bogdanov: true
+  type: paper
+  plugin: google-scholar.py
+  file: google-scholar.yaml
+- id: UBpC3u0AAAAJ:DBa1UEJaJKAC
+  title: Learning Predictive Substructures with Regularization for Network Data
+  authors:
+  - XH Dang
+  - H You
+  - P Bogdanov
+  - AK Singh
+  publisher: IEEE International Conference on Data Mining (ICDM), 2015
+  date: '2015-01-01'
+  link: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=UBpC3u0AAAAJ&pagesize=100&citation_for_view=UBpC3u0AAAAJ:DBa1UEJaJKAC
+  gsid: UBpC3u0AAAAJ
+  petko-bogdanov: true
+  type: paper
+  plugin: google-scholar.py
+  file: google-scholar.yaml
+- id: UBpC3u0AAAAJ:SIv7DqKytYAC
+  title: Understanding drivers and challenges of multi-actor collaborations at the
+    local level
+  authors:
+  - Q Yuan
+  - K Doke
+  - M Gasco-Hernandez
+  - JR Gil-Garcia
+  - M Zheleva
+  - '...'
+  publisher: ''
+  date: '2022-01-01'
+  link: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=UBpC3u0AAAAJ&pagesize=100&citation_for_view=UBpC3u0AAAAJ:SIv7DqKytYAC
+  gsid: UBpC3u0AAAAJ
+  petko-bogdanov: true
+  type: paper
+  plugin: google-scholar.py
+  file: google-scholar.yaml
+- id: UBpC3u0AAAAJ:UuEBAcK4md4C
+  title: ': Exploiting MIMO Self-Similarity for Under-Determined Modulation Recognition'
+  authors:
+  - W Xiong
+  - L Zhang
+  - M McNeil
+  - P Bogdanov
+  - M Zheleva
+  publisher: IEEE Transactions on Mobile Computing 21 (11), 4111-4124, 2021
+  date: '2021-01-01'
+  link: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=UBpC3u0AAAAJ&pagesize=100&citation_for_view=UBpC3u0AAAAJ:UuEBAcK4md4C
+  gsid: UBpC3u0AAAAJ
+  petko-bogdanov: true
+  type: paper
+  plugin: google-scholar.py
+  file: google-scholar.yaml
+- id: UBpC3u0AAAAJ:PyEswDtIyv0C
+  title: 'Making a Small World Smaller: Path Optimization in Networks'
+  authors:
+  - S Medya
+  - P Bogdanov
+  - AK Singh
+  publisher: IEEE Transactions on Knowledge and Data Engineering, 1-1, 2018
+  date: '2018-01-01'
+  link: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=UBpC3u0AAAAJ&pagesize=100&citation_for_view=UBpC3u0AAAAJ:PyEswDtIyv0C
+  gsid: UBpC3u0AAAAJ
+  petko-bogdanov: true
+  type: paper
+  plugin: google-scholar.py
+  file: google-scholar.yaml
+- id: UBpC3u0AAAAJ:Tyk-4Ss8FVUC
+  title: Identifying communities with coherent and opposing views
+  authors:
+  - N Larusso
+  - P Bogdanov
+  - A Singh
+  publisher: "Proceeding of the 15th Annual Graduate Student Workshop in Computing.\
+    \ Santa \u2026, 2010"
+  date: '2010-01-01'
+  link: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=UBpC3u0AAAAJ&pagesize=100&citation_for_view=UBpC3u0AAAAJ:Tyk-4Ss8FVUC
+  gsid: UBpC3u0AAAAJ
+  petko-bogdanov: true
+  type: paper
+  plugin: google-scholar.py
+  file: google-scholar.yaml
+- id: UBpC3u0AAAAJ:DrR-2ekChdkC
+  title: Supporting resilience in rural emergency preparedness and response through
+    improved information access
+  authors:
+  - K Doke
+  - Q Yuan
+  - M Gasco-Hernandez
+  - M Sutherland-Mitzer
+  - '...'
+  publisher: 'GetMobile: Mobile Computing and Communications 24 (2), 5-11, 2020'
+  date: '2020-01-01'
+  link: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=UBpC3u0AAAAJ&pagesize=100&citation_for_view=UBpC3u0AAAAJ:DrR-2ekChdkC
+  gsid: UBpC3u0AAAAJ
+  petko-bogdanov: true
+  type: paper
+  plugin: google-scholar.py
+  file: google-scholar.yaml
+- id: UBpC3u0AAAAJ:kF1pexMAQbMC
+  title: "Towards a Socio-Technical Framework for Bridging the Digital Divide in Rural\
+    \ Emergency Preparedness and Response: Integrating User Adoption, Heterogeneous\
+    \ Wide Area Networks \u2026"
+  authors:
+  - M Gasco-Hernandez
+  - M Zheleva
+  - P Bogdanov
+  - JR Gil-Garcia
+  publisher: "Proceedings of the 20th Annual International Conference on Digital \u2026\
+    , 2019"
+  date: '2019-01-01'
+  link: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=UBpC3u0AAAAJ&pagesize=100&citation_for_view=UBpC3u0AAAAJ:kF1pexMAQbMC
+  gsid: UBpC3u0AAAAJ
+  petko-bogdanov: true
+  type: paper
+  plugin: google-scholar.py
+  file: google-scholar.yaml
+- id: UBpC3u0AAAAJ:1DsIQWDZLl8C
+  title: An Efficient System for Subgraph Discovery
+  authors:
+  - A Joshi
+  - Y Zhang
+  - P Bogdanov
+  - JH Hwang
+  publisher: IEEE International Conference on Big Data (Big Data 2018), 2018
+  date: '2018-01-01'
+  link: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=UBpC3u0AAAAJ&pagesize=100&citation_for_view=UBpC3u0AAAAJ:1DsIQWDZLl8C
+  gsid: UBpC3u0AAAAJ
+  petko-bogdanov: true
+  type: paper
+  plugin: google-scholar.py
+  file: google-scholar.yaml
+- id: UBpC3u0AAAAJ:DyXnQzXoVgIC
+  title: DNA-Stabilized Silver Nanocluster Design via Regularized Variational Autoencoders
+  authors:
+  - F Moomtaheen
+  - M Killeen
+  - J Oswald
+  - "A Gonz\xE0lez-Rosell"
+  - P Mastracco
+  - '...'
+  publisher: "Proceedings of the 28th ACM SIGKDD Conference on Knowledge Discovery\
+    \ and \u2026, 2022"
+  date: '2022-01-01'
+  link: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=UBpC3u0AAAAJ&pagesize=100&citation_for_view=UBpC3u0AAAAJ:DyXnQzXoVgIC
+  gsid: UBpC3u0AAAAJ
+  petko-bogdanov: true
+  type: paper
+  plugin: google-scholar.py
+  file: google-scholar.yaml
+- id: UBpC3u0AAAAJ:pAkWuXOU-OoC
+  title: 'Airpress: High-accuracy spectrum summarization using compressed scans'
+  authors:
+  - M Zheleva
+  - T Larock
+  - P Schmitt
+  - P Bogdanov
+  publisher: "2018 IEEE International Symposium on Dynamic Spectrum Access Networks\
+    \ \u2026, 2018"
+  date: '2018-01-01'
+  link: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=UBpC3u0AAAAJ&pagesize=100&citation_for_view=UBpC3u0AAAAJ:pAkWuXOU-OoC
+  gsid: UBpC3u0AAAAJ
+  petko-bogdanov: true
+  type: paper
+  plugin: google-scholar.py
+  file: google-scholar.yaml
+- id: UBpC3u0AAAAJ:k_7cPK9k7w8C
+  title: 'MODELESS: MODulation rEcognition with LimitEd SuperviSion'
+  authors:
+  - W Xiong
+  - P Bogdanov
+  - M Zheleva
+  publisher: "IEEE International Conference on Sensing, Communication and Networking\
+    \ \u2026, 2021"
+  date: '2021-01-01'
+  link: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=UBpC3u0AAAAJ&pagesize=100&citation_for_view=UBpC3u0AAAAJ:k_7cPK9k7w8C
+  gsid: UBpC3u0AAAAJ
+  petko-bogdanov: true
+  type: paper
+  plugin: google-scholar.py
+  file: google-scholar.yaml
+- id: UBpC3u0AAAAJ:TlpoogIpr_IC
+  title: Learning Periods from Incomplete Multivariate Time Series
+  authors:
+  - L Zhang
+  - A Gorovits
+  - W Zhang
+  - P Bogdanov
+  publisher: 2020 IEEE International Conference on Data Mining (ICDM), 2020
+  date: '2020-01-01'
+  link: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=UBpC3u0AAAAJ&pagesize=100&citation_for_view=UBpC3u0AAAAJ:TlpoogIpr_IC
+  gsid: UBpC3u0AAAAJ
+  petko-bogdanov: true
+  type: paper
+  plugin: google-scholar.py
+  file: google-scholar.yaml
+- id: UBpC3u0AAAAJ:ziOE8S1-AIUC
+  title: 'DSL: Discriminative Subgraph Learning via Sparse Self-Representation'
+  authors:
+  - L Zhang
+  - P Bogdanov
+  publisher: SIAM International Conference on Data Mining (SDM 2019), 2019
+  date: '2019-01-01'
+  link: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=UBpC3u0AAAAJ&pagesize=100&citation_for_view=UBpC3u0AAAAJ:ziOE8S1-AIUC
+  gsid: UBpC3u0AAAAJ
+  petko-bogdanov: true
+  type: paper
+  plugin: google-scholar.py
+  file: google-scholar.yaml
+- id: UBpC3u0AAAAJ:2ywjKiB__4kC
+  title: Multi-dictionary tensor decomposition
+  authors:
+  - M McNeil
+  - P Bogdanov
+  publisher: 2023 IEEE International Conference on Data Mining (ICDM), 1217-1222,
+    2023
+  date: '2023-01-01'
+  link: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=UBpC3u0AAAAJ&pagesize=100&citation_for_view=UBpC3u0AAAAJ:2ywjKiB__4kC
+  gsid: UBpC3u0AAAAJ
+  petko-bogdanov: true
+  type: paper
+  plugin: google-scholar.py
+  file: google-scholar.yaml
+- id: UBpC3u0AAAAJ:zdjWy_NXXwUC
+  title: 'Gist: Graph inference for structured time series'
+  authors:
+  - B Ma
+  - M McNeil
+  - P Bogdanov
+  publisher: "Proceedings of the 2023 SIAM International Conference on Data Mining\
+    \ (SDM \u2026, 2023"
+  date: '2023-01-01'
+  link: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=UBpC3u0AAAAJ&pagesize=100&citation_for_view=UBpC3u0AAAAJ:zdjWy_NXXwUC
+  gsid: UBpC3u0AAAAJ
+  petko-bogdanov: true
+  type: paper
+  plugin: google-scholar.py
+  file: google-scholar.yaml
+- id: UBpC3u0AAAAJ:YlPif8NxrbYC
+  title: 'CADENCE: Community-aware detection of dynamic network states'
+  authors:
+  - M McNeil
+  - C Mattsson
+  - FW Takes
+  - P Bogdanov
+  publisher: Proceedings of the 2023 SIAM International Conference on Data Mining
+    (SDM), 1-9, 2023
+  date: '2023-01-01'
+  link: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=UBpC3u0AAAAJ&pagesize=100&citation_for_view=UBpC3u0AAAAJ:YlPif8NxrbYC
+  gsid: UBpC3u0AAAAJ
+  petko-bogdanov: true
+  type: paper
+  plugin: google-scholar.py
+  file: google-scholar.yaml
+- id: UBpC3u0AAAAJ:aIdbFUkbNIkC
+  title: Mining bursty groups from interaction data
+  authors:
+  - A Gorovits
+  - L Zhang
+  - E Gujral
+  - E Papalexakis
+  - P Bogdanov
+  publisher: "Proceedings of the 30th ACM International Conference on Information\
+    \ \u2026, 2021"
+  date: '2021-01-01'
+  link: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=UBpC3u0AAAAJ&pagesize=100&citation_for_view=UBpC3u0AAAAJ:aIdbFUkbNIkC
+  gsid: UBpC3u0AAAAJ
+  petko-bogdanov: true
+  type: paper
+  plugin: google-scholar.py
+  file: google-scholar.yaml
+- id: UBpC3u0AAAAJ:rbm3iO8VlycC
+  title: "Understanding the determinants of adoption and use of information and communication\
+    \ technologies for emergency management: proposing a research agenda based on\
+    \ existing \u2026"
+  authors:
+  - Q Yuan
+  - Y Gulatee
+  - M Gasco-Hernandez
+  - M Zheleva
+  - P Bogdanov
+  - '...'
+  publisher: ''
+  date: '2021-01-01'
+  link: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=UBpC3u0AAAAJ&pagesize=100&citation_for_view=UBpC3u0AAAAJ:rbm3iO8VlycC
+  gsid: UBpC3u0AAAAJ
+  petko-bogdanov: true
+  type: paper
+  plugin: google-scholar.py
+  file: google-scholar.yaml
+- id: UBpC3u0AAAAJ:pS0ncopqnHgC
+  title: Exploiting Self-Similarity for Under-Determined MIMO Modulation Recognition
+  authors:
+  - W Xiong
+  - L Zhang
+  - M McNeil
+  - P Bogdanov
+  - M Zheleva
+  publisher: IEEE International Conference on Computer Communications (INFOCOM'20),
+    2020
+  date: '2020-01-01'
+  link: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=UBpC3u0AAAAJ&pagesize=100&citation_for_view=UBpC3u0AAAAJ:pS0ncopqnHgC
+  gsid: UBpC3u0AAAAJ
+  petko-bogdanov: true
+  type: paper
+  plugin: google-scholar.py
+  file: google-scholar.yaml
+- id: UBpC3u0AAAAJ:wvYxNZNCP7wC
+  title: Towards scalable zero-shot modulation recognition
+  authors:
+  - W Xiong
+  - P Bogdanov
+  - M Zheleva
+  publisher: IEEE 91st Vehicular Technology Conference VTC 2020-Fall, 2020
+  date: '2020-01-01'
+  link: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=UBpC3u0AAAAJ&pagesize=100&citation_for_view=UBpC3u0AAAAJ:wvYxNZNCP7wC
+  gsid: UBpC3u0AAAAJ
+  petko-bogdanov: true
+  type: paper
+  plugin: google-scholar.py
+  file: google-scholar.yaml
+- id: UBpC3u0AAAAJ:silx2ntsSuwC
+  title: 'SAGA: Signal-Aware Graph Aggregation'
+  authors:
+  - M McNeil
+  - B Ma
+  - P Bogdanov
+  publisher: SIAM International Conference on Data Mining (SDM), 2022
+  date: '2022-01-01'
+  link: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=UBpC3u0AAAAJ&pagesize=100&citation_for_view=UBpC3u0AAAAJ:silx2ntsSuwC
+  gsid: UBpC3u0AAAAJ
+  petko-bogdanov: true
+  type: paper
+  plugin: google-scholar.py
+  file: google-scholar.yaml
+- id: UBpC3u0AAAAJ:5bg8sr1QxYwC
+  title: Optimal Timelines for Network Processes
+  authors:
+  - DJ DiTursi
+  - CS Kaminski
+  - P Bogdanov
+  publisher: 2019 IEEE International Conference on Data Mining (ICDM), 1024-1029,
+    2019
+  date: '2019-01-01'
+  link: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=UBpC3u0AAAAJ&pagesize=100&citation_for_view=UBpC3u0AAAAJ:5bg8sr1QxYwC
+  gsid: UBpC3u0AAAAJ
+  petko-bogdanov: true
+  type: paper
+  plugin: google-scholar.py
+  file: google-scholar.yaml
+- id: UBpC3u0AAAAJ:YsMSGLbcyi4C
+  title: 'SigSpot: mining significant anomalous regions from time-evolving networks'
+  authors:
+  - "M Mongiov\xEC"
+  - P Bogdanov
+  - R Ranca
+  - AK Singh
+  - EE Papalexakis
+  - '...'
+  publisher: "Proceedings of the 2012 ACM SIGMOD International Conference on Management\
+    \ of \u2026, 2012"
+  date: '2012-01-01'
+  link: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=UBpC3u0AAAAJ&pagesize=100&citation_for_view=UBpC3u0AAAAJ:YsMSGLbcyi4C
+  gsid: UBpC3u0AAAAJ
+  petko-bogdanov: true
+  type: paper
+  plugin: google-scholar.py
+  file: google-scholar.yaml
+- id: UBpC3u0AAAAJ:d1gkVwhDpl0C
+  title: Fast nearest neighbors in large and composite networks
+  authors:
+  - P Bogdanov
+  - AK Singh
+  publisher: Technical Report, UC Santa Barbara, 2010
+  date: '2010-01-01'
+  link: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=UBpC3u0AAAAJ&pagesize=100&citation_for_view=UBpC3u0AAAAJ:d1gkVwhDpl0C
+  gsid: UBpC3u0AAAAJ
+  petko-bogdanov: true
+  type: paper
+  plugin: google-scholar.py
+  file: google-scholar.yaml
+- id: UBpC3u0AAAAJ:u-x6o8ySG0sC
+  title: Function Prediction Using Neighborhood Patterns
+  authors:
+  - P Bogdanov
+  - A Singh
+  publisher: "Proceedings of the 8th International Workshop on Data Mining in \u2026\
+    , 2008"
+  date: '2008-01-01'
+  link: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=UBpC3u0AAAAJ&pagesize=100&citation_for_view=UBpC3u0AAAAJ:u-x6o8ySG0sC
+  gsid: UBpC3u0AAAAJ
+  petko-bogdanov: true
+  type: paper
+  plugin: google-scholar.py
+  file: google-scholar.yaml
+- id: UBpC3u0AAAAJ:qE4H1tSSYIIC
+  title: Sparse Recovery Transmitter Detection
+  authors:
+  - B Okoro
+  - M McNeil
+  - K Meka
+  - K Doke
+  - P Bogdanov
+  - M Zheleva
+  publisher: IEEE International Conference on Computer Communications (INFOCOM'25),
+    2025
+  date: '2025-01-01'
+  link: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=UBpC3u0AAAAJ&pagesize=100&citation_for_view=UBpC3u0AAAAJ:qE4H1tSSYIIC
+  gsid: UBpC3u0AAAAJ
+  petko-bogdanov: true
+  type: paper
+  plugin: google-scholar.py
+  file: google-scholar.yaml
+- id: UBpC3u0AAAAJ:isU91gLudPYC
+  title: Low Rank Multi-Dictionary Selection at Scale
+  authors:
+  - B Ma
+  - M McNeil
+  - A Magner
+  - P Bogdanov
+  publisher: "Proceedings of the 30th ACM SIGKDD Conference on Knowledge Discovery\
+    \ and \u2026, 2024"
+  date: '2024-01-01'
+  link: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=UBpC3u0AAAAJ&pagesize=100&citation_for_view=UBpC3u0AAAAJ:isU91gLudPYC
+  gsid: UBpC3u0AAAAJ
+  petko-bogdanov: true
+  type: paper
+  plugin: google-scholar.py
+  file: google-scholar.yaml
+- id: UBpC3u0AAAAJ:27LrP4qxOz0C
+  title: Does Co-Creation Affect the Adoption of IT-Enabled Solutions? The Case of
+    a Mobile Application for Emergency Preparedness
+  authors:
+  - Q Yuan
+  - M Gasco-Hernandez
+  - JR Gil-Garcia
+  - V Taneja
+  - K Doke
+  - '...'
+  publisher: HICSS'23, 2023
+  date: '2023-01-01'
+  link: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=UBpC3u0AAAAJ&pagesize=100&citation_for_view=UBpC3u0AAAAJ:27LrP4qxOz0C
+  gsid: UBpC3u0AAAAJ
+  petko-bogdanov: true
+  type: paper
+  plugin: google-scholar.py
+  file: google-scholar.yaml
+- id: UBpC3u0AAAAJ:mWEH9CqjF64C
+  title: 'LinksIQ: Robust and Efficient Modulation Recognition with Imperfect Spectrum
+    Scans'
+  authors:
+  - W Xiong
+  - K Doke
+  - P Bogdanov
+  - M Zheleva
+  publisher: arXiv preprint arXiv:2005.04149, 2020
+  date: '2020-01-01'
+  link: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=UBpC3u0AAAAJ&pagesize=100&citation_for_view=UBpC3u0AAAAJ:mWEH9CqjF64C
+  gsid: UBpC3u0AAAAJ
+  petko-bogdanov: true
+  type: paper
+  plugin: google-scholar.py
+  file: google-scholar.yaml
+- id: UBpC3u0AAAAJ:HJSXoJQnj-YC
+  title: Period Estimation For Incomplete Time Series.
+  authors:
+  - L Zhang
+  - P Bogdanov
+  publisher: "Proceedings of the 7th IEEE International Conference on Data Science\
+    \ and \u2026, 2020"
+  date: '2020-01-01'
+  link: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=UBpC3u0AAAAJ&pagesize=100&citation_for_view=UBpC3u0AAAAJ:HJSXoJQnj-YC
+  gsid: UBpC3u0AAAAJ
+  petko-bogdanov: true
+  type: paper
+  plugin: google-scholar.py
+  file: google-scholar.yaml
+- id: UBpC3u0AAAAJ:UeHWp8X0CEIC
+  title: Function annotation in gene networks
+  authors:
+  - P Bogdanov
+  - K Macropol
+  - AK Singh
+  publisher: Functional Coherence of Molecular Networks in Bioinformatics, 49-67,
+    2011
+  date: '2011-01-01'
+  link: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=UBpC3u0AAAAJ&pagesize=100&citation_for_view=UBpC3u0AAAAJ:UeHWp8X0CEIC
+  gsid: UBpC3u0AAAAJ
+  petko-bogdanov: true
+  type: paper
+  plugin: google-scholar.py
+  file: google-scholar.yaml
+- id: UBpC3u0AAAAJ:SAZ1SQo2q1kC
+  title: Property-Isometric Variational Autoencoders for Sequence Modeling and Design
+  authors:
+  - E Sadeghi
+  - X Deng
+  - I Lin
+  - SM Copp
+  - P Bogdanov
+  publisher: arXiv preprint arXiv:2509.14287, 2025
+  date: '2025-01-01'
+  link: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=UBpC3u0AAAAJ&pagesize=100&citation_for_view=UBpC3u0AAAAJ:SAZ1SQo2q1kC
+  gsid: UBpC3u0AAAAJ
+  petko-bogdanov: true
+  type: paper
+  plugin: google-scholar.py
+  file: google-scholar.yaml
+- id: UBpC3u0AAAAJ:D_tqNUsBuKoC
+  title: Sparse Coding Representation of 2-way Data
+  authors:
+  - B Ma
+  - A Magner
+  - M McNeil
+  - P Bogdanov
+  publisher: arXiv preprint arXiv:2509.10033, 2025
+  date: '2025-01-01'
+  link: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=UBpC3u0AAAAJ&pagesize=100&citation_for_view=UBpC3u0AAAAJ:D_tqNUsBuKoC
+  gsid: UBpC3u0AAAAJ
+  petko-bogdanov: true
+  type: paper
+  plugin: google-scholar.py
+  file: google-scholar.yaml
+- id: UBpC3u0AAAAJ:Wq2b2clWBLsC
+  title: 'TVWS Network Resilience in Rural Towns: How External Factors Impact Network
+    Performance and Social Factors Impact Network Longevity'
+  authors:
+  - V Taneja
+  - M Chater
+  - T Comanzo
+  - P Bogdanov
+  - M Zheleva
+  publisher: "Proceedings of the 13th International Conference on Information \u2026\
+    , 2024"
+  date: '2024-01-01'
+  link: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=UBpC3u0AAAAJ&pagesize=100&citation_for_view=UBpC3u0AAAAJ:Wq2b2clWBLsC
+  gsid: UBpC3u0AAAAJ
+  petko-bogdanov: true
+  type: paper
+  plugin: google-scholar.py
+  file: google-scholar.yaml
+- id: UBpC3u0AAAAJ:Hck25ST_3aIC
+  title: 'CORE: Connectivity Optimization via REinforcement Learning in WANETs'
+  authors:
+  - A Gorovits
+  - K Doke
+  - L Zhang
+  - M Zheleva
+  - P Bogdanov
+  publisher: "IEEE International Conference on Sensing, Communication and Networking\
+    \ \u2026, 2021"
+  date: '2021-01-01'
+  link: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=UBpC3u0AAAAJ&pagesize=100&citation_for_view=UBpC3u0AAAAJ:Hck25ST_3aIC
+  gsid: UBpC3u0AAAAJ
+  petko-bogdanov: true
+  type: paper
+  plugin: google-scholar.py
+  file: google-scholar.yaml
+- id: UBpC3u0AAAAJ:kWvqk_afx_IC
+  title: Efficient spectrum summarization using compressed spectrum scans
+  authors:
+  - M Zheleva
+  - T Larock
+  - P Schmitt
+  - P Bogdanov
+  publisher: "IEEE INFOCOM 2018-IEEE Conference on Computer Communications Workshops\
+    \ \u2026, 2018"
+  date: '2018-01-01'
+  link: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=UBpC3u0AAAAJ&pagesize=100&citation_for_view=UBpC3u0AAAAJ:kWvqk_afx_IC
+  gsid: UBpC3u0AAAAJ
+  petko-bogdanov: true
+  type: paper
+  plugin: google-scholar.py
+  file: google-scholar.yaml
+- id: UBpC3u0AAAAJ:X9ykpCP0fEIC
+  title: Motif-based design of DNA templates for fluorescent silver clusters
+  authors:
+  - S Copp
+  - P Bogdanov
+  - M Debord
+  - A Singh
+  - E Gwinn
+  publisher: FNANO, 2014
+  date: '2014-01-01'
+  link: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=UBpC3u0AAAAJ&pagesize=100&citation_for_view=UBpC3u0AAAAJ:X9ykpCP0fEIC
+  gsid: UBpC3u0AAAAJ
+  petko-bogdanov: true
+  type: paper
+  plugin: google-scholar.py
+  file: google-scholar.yaml
+- id: UBpC3u0AAAAJ:WC9gN4BGCRcC
+  title: Collection and Analysis of Relational Data from Digital Archives.
+  authors:
+  - JW Mohr
+  - P Bogdanov
+  publisher: Encyclopedia of Social Network Analysis and Mining, 133-136, 2014
+  date: '2014-01-01'
+  link: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=UBpC3u0AAAAJ&pagesize=100&citation_for_view=UBpC3u0AAAAJ:WC9gN4BGCRcC
+  gsid: UBpC3u0AAAAJ
+  petko-bogdanov: true
+  type: paper
+  plugin: google-scholar.py
+  file: google-scholar.yaml
+- id: UBpC3u0AAAAJ:MIg0yeAD4ggC
+  title: Multi-Dictionary Learning for Low Rank Sparse Coding
+  authors:
+  - B Ma
+  - A Magner
+  - M McNeil
+  - P Bogdanov
+  publisher: "ICASSP 2026-2026 IEEE International Conference on Acoustics, Speech\
+    \ and \u2026, 2026"
+  date: '2026-01-01'
+  link: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=UBpC3u0AAAAJ&pagesize=100&citation_for_view=UBpC3u0AAAAJ:MIg0yeAD4ggC
+  gsid: UBpC3u0AAAAJ
+  petko-bogdanov: true
+  type: paper
+  plugin: google-scholar.py
+  file: google-scholar.yaml
+- id: UBpC3u0AAAAJ:z6xuaG2dYH0C
+  title: Overview of Transcriptomic Approaches for the Study of Salivary Gland Biology
+    and Regeneration
+  authors:
+  - M Larsen
+  - D Nelson
+  - HR Kwon
+  - SB Peters
+  - J Kenney
+  - V Gellatly
+  - '...'
+  publisher: "Salivary Gland Development and Regeneration: Advances in Research and\
+    \ \u2026, 2026"
+  date: '2026-01-01'
+  link: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=UBpC3u0AAAAJ&pagesize=100&citation_for_view=UBpC3u0AAAAJ:z6xuaG2dYH0C
+  gsid: UBpC3u0AAAAJ
+  petko-bogdanov: true
+  type: paper
+  plugin: google-scholar.py
+  file: google-scholar.yaml
+- id: UBpC3u0AAAAJ:C33y2ycGS3YC
+  title: 'WideRate: Reinforcement Learning Rate Adaptation for Mobile Wide Area Networks'
+  authors:
+  - K Doke
+  - E Sadeghi
+  - V Taneja
+  - H Affinnih
+  - P Bogdanov
+  - M Zheleva
+  publisher: 2024 IEEE 99th Vehicular Technology Conference (VTC2024-Spring), 1-6,
+    2024
+  date: '2024-01-01'
+  link: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=UBpC3u0AAAAJ&pagesize=100&citation_for_view=UBpC3u0AAAAJ:C33y2ycGS3YC
+  gsid: UBpC3u0AAAAJ
+  petko-bogdanov: true
+  type: paper
+  plugin: google-scholar.py
+  file: google-scholar.yaml
+- id: UBpC3u0AAAAJ:-DxkuPiZhfEC
+  title: Unsupervised Instance and Subnetwork Selection for Network Data
+  authors:
+  - L Zhang
+  - N Moskwa
+  - M Larsen
+  - P Bogdanov
+  publisher: "Proceedings of the 9th IEEE International Conference on Data Science\
+    \ and \u2026, 2022"
+  date: '2022-01-01'
+  link: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=UBpC3u0AAAAJ&pagesize=100&citation_for_view=UBpC3u0AAAAJ:-DxkuPiZhfEC
+  gsid: UBpC3u0AAAAJ
+  petko-bogdanov: true
+  type: paper
+  plugin: google-scholar.py
+  file: google-scholar.yaml
+- id: UBpC3u0AAAAJ:v6i8RKmR8ToC
+  title: Fast and Accurate Spreading Process Temporal Scale Estimation
+  authors:
+  - A Magner
+  - CS Kaminski
+  - P Bogdanov
+  publisher: Transactions of Machine Learning Research (TMLR), 2022
+  date: '2022-01-01'
+  link: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=UBpC3u0AAAAJ&pagesize=100&citation_for_view=UBpC3u0AAAAJ:v6i8RKmR8ToC
+  gsid: UBpC3u0AAAAJ
+  petko-bogdanov: true
+  type: paper
+  plugin: google-scholar.py
+  file: google-scholar.yaml
+- id: UBpC3u0AAAAJ:Xl6nMSl579sC
+  title: 'Temporal Scale Estimation for Oversampled Network Cascades: Theory, Algorithms,
+    and Experiment'
+  authors:
+  - A Magner
+  - C Kaminski
+  - P Bogdanov
+  publisher: arXiv preprint arXiv:2109.10937, 2021
+  date: '2021-01-01'
+  link: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=UBpC3u0AAAAJ&pagesize=100&citation_for_view=UBpC3u0AAAAJ:Xl6nMSl579sC
+  gsid: UBpC3u0AAAAJ
+  petko-bogdanov: true
+  type: paper
+  plugin: google-scholar.py
+  file: google-scholar.yaml
+- id: UBpC3u0AAAAJ:IsPWOBWtZBwC
+  title: Physically motivated feature engineering for classification of fluorescent
+    DNA-stabilized silver clusters
+  authors:
+  - P Mastracco
+  - A Gorovitz
+  - P Bogdanov
+  - S Copp
+  publisher: APS March Meeting Abstracts 2021, M71. 104, 2021
+  date: '2021-01-01'
+  link: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=UBpC3u0AAAAJ&pagesize=100&citation_for_view=UBpC3u0AAAAJ:IsPWOBWtZBwC
+  gsid: UBpC3u0AAAAJ
+  petko-bogdanov: true
+  type: paper
+  plugin: google-scholar.py
+  file: google-scholar.yaml
+- id: UBpC3u0AAAAJ:L_l9e5I586QC
+  title: 'Collaborative Research: New class of near-infrared fluorophores derived
+    from DNA-templated silver clusters for deep tissue imaging'
+  authors:
+  - P Bogdanov
+  publisher: NSF Award Number 2025793. Directorate for Engineering 20 (2025793), 25793,
+    2020
+  date: '2020-01-01'
+  link: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=UBpC3u0AAAAJ&pagesize=100&citation_for_view=UBpC3u0AAAAJ:L_l9e5I586QC
+  gsid: UBpC3u0AAAAJ
+  petko-bogdanov: true
+  type: paper
+  plugin: google-scholar.py
+  file: google-scholar.yaml
+- id: UBpC3u0AAAAJ:SnGPuo6Feq8C
+  title: 'Fractals in the Air: Under-determined modulation recognition for MIMO communication'
+  authors:
+  - W Xiong
+  - L Zhang
+  - M McNeil
+  - P Bogdanov
+  - M Zheleva
+  publisher: "IEEE INFOCOM 2020-IEEE Conference on Computer Communications Workshops\
+    \ \u2026, 2020"
+  date: '2020-01-01'
+  link: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=UBpC3u0AAAAJ&pagesize=100&citation_for_view=UBpC3u0AAAAJ:SnGPuo6Feq8C
+  gsid: UBpC3u0AAAAJ
+  petko-bogdanov: true
+  type: paper
+  plugin: google-scholar.py
+  file: google-scholar.yaml
+- id: UBpC3u0AAAAJ:An6A6Jpfc1oC
+  title: 'EApp: Improving Rural Emergency Preparedness and Response'
+  authors:
+  - K Doke
+  - N Chengwang
+  - A Boggio-Dandry
+  - P Bogdanov
+  - M Zheleva
+  publisher: The 25th Annual International Conference on Mobile Computing and Networking,
+    1-3, 2019
+  date: '2019-01-01'
+  link: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=UBpC3u0AAAAJ&pagesize=100&citation_for_view=UBpC3u0AAAAJ:An6A6Jpfc1oC
+  gsid: UBpC3u0AAAAJ
+  petko-bogdanov: true
+  type: paper
+  plugin: google-scholar.py
+  file: google-scholar.yaml
+- id: UBpC3u0AAAAJ:-7ulzOJl1JYC
+  title: 'Systems Biology: Salivary Gland Development, Disease, and Regenerative Medicine'
+  authors:
+  - M Larsen
+  - P Bogdanov
+  - R Sood
+  - HR Kwon
+  - DA Nelson
+  - C Duffy
+  - SB Peters
+  - '...'
+  publisher: Salivary Gland Development and Regeneration, 23--44, 2017
+  date: '2017-01-01'
+  link: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=UBpC3u0AAAAJ&pagesize=100&citation_for_view=UBpC3u0AAAAJ:-7ulzOJl1JYC
+  gsid: UBpC3u0AAAAJ
+  petko-bogdanov: true
+  type: paper
+  plugin: google-scholar.py
+  file: google-scholar.yaml
+- id: UBpC3u0AAAAJ:tHtfpZlB6tUC
+  title: Collection and Analysis of Relational Data from Digital Archives
+  authors:
+  - JW Mohr
+  - P Bogdanov
+  publisher: Encyclopedia of Social Network Analysis and Mining, 1-4, 2016
+  date: '2016-01-01'
+  link: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=UBpC3u0AAAAJ&pagesize=100&citation_for_view=UBpC3u0AAAAJ:tHtfpZlB6tUC
+  gsid: UBpC3u0AAAAJ
+  petko-bogdanov: true
+  type: paper
+  plugin: google-scholar.py
+  file: google-scholar.yaml
+- id: UBpC3u0AAAAJ:Dem6FJhTUoYC
+  title: Adaptive Power Load Balancing in Cellular Networks
+  authors:
+  - TS LaRock
+  - X Feng
+  - MZ Zheleva
+  - PB Bogdanov
+  publisher: SUNY Undergraduate Research Conference, 2015
+  date: '2015-01-01'
+  link: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=UBpC3u0AAAAJ&pagesize=100&citation_for_view=UBpC3u0AAAAJ:Dem6FJhTUoYC
+  gsid: UBpC3u0AAAAJ
+  petko-bogdanov: true
+  type: paper
+  plugin: google-scholar.py
+  file: google-scholar.yaml
+- id: UBpC3u0AAAAJ:raTqNPD5sRQC
+  title: Mining evolving network processes Supplemental material
+  authors:
+  - "M Mongiov\u0131"
+  - P Bogdanov
+  - AK Singh
+  publisher: ICDM, 2013
+  date: '2013-01-01'
+  link: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=UBpC3u0AAAAJ&pagesize=100&citation_for_view=UBpC3u0AAAAJ:raTqNPD5sRQC
+  gsid: UBpC3u0AAAAJ
+  petko-bogdanov: true
+  type: paper
+  plugin: google-scholar.py
+  file: google-scholar.yaml
+- id: UBpC3u0AAAAJ:_FxGoFyzp5QC
+  title: 'Beyond simple relations: mining and search in temporal, composite and semantic
+    graphs'
+  authors:
+  - P Bogdanov
+  publisher: University of California at Santa Barbara, 2012
+  date: '2012-01-01'
+  link: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=UBpC3u0AAAAJ&pagesize=100&citation_for_view=UBpC3u0AAAAJ:_FxGoFyzp5QC
+  gsid: UBpC3u0AAAAJ
+  petko-bogdanov: true
+  type: paper
+  plugin: google-scholar.py
+  file: google-scholar.yaml
+- id: UBpC3u0AAAAJ:qjMakFHDy7sC
+  title: Fast Nearest Neighbors in Large Networks
+  authors:
+  - P Bogdanov
+  - AK Singh
+  publisher: GSWC 2010, 13, 2010
+  date: '2010-01-01'
+  link: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=UBpC3u0AAAAJ&pagesize=100&citation_for_view=UBpC3u0AAAAJ:qjMakFHDy7sC
+  gsid: UBpC3u0AAAAJ
+  petko-bogdanov: true
+  type: paper
+  plugin: google-scholar.py
+  file: google-scholar.yaml
+- id: UBpC3u0AAAAJ:-6RzNnnwWf8C
+  title: Karyn Doke, Qianli Yuan, Mila Gasco-Hernandez, Megan Sutherland-Mitzer
+  authors:
+  - JR Gil-Garcia
+  - P Bogdanov
+  - M Zheleva
+  publisher: ''
+  date: ''
+  link: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=UBpC3u0AAAAJ&pagesize=100&citation_for_view=UBpC3u0AAAAJ:-6RzNnnwWf8C
+  gsid: UBpC3u0AAAAJ
+  petko-bogdanov: true
+  type: paper
+  plugin: google-scholar.py
+  file: google-scholar.yaml
+- id: UBpC3u0AAAAJ:T_ojBgVMvoEC
+  title: Joint Time-Frequency-Space Transmitter Analytics via Dictionary-Based Tensor
+    Factorization
+  authors:
+  - BA Okoro
+  - P Bogdanov
+  - M Zheleva
+  publisher: ''
+  date: ''
+  link: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=UBpC3u0AAAAJ&pagesize=100&citation_for_view=UBpC3u0AAAAJ:T_ojBgVMvoEC
+  gsid: UBpC3u0AAAAJ
+  petko-bogdanov: true
+  type: paper
+  plugin: google-scholar.py
+  file: google-scholar.yaml
+- id: UBpC3u0AAAAJ:MAUkC_7iAq8C
+  title: 'AirPress: Towards Scalable Spectrum Inventory'
+  authors:
+  - T Larock
+  - P Schmitt
+  - P Bogdanov
+  - E Belding
+  - M Zheleva
+  publisher: ''
+  date: ''
+  link: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=UBpC3u0AAAAJ&pagesize=100&citation_for_view=UBpC3u0AAAAJ:MAUkC_7iAq8C
+  gsid: UBpC3u0AAAAJ
+  petko-bogdanov: true
+  type: paper
+  plugin: google-scholar.py
+  file: google-scholar.yaml
