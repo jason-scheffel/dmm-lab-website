@@ -9,6 +9,7 @@ At the Data Mining and Management lab at the University at Albany - SUNY we desi
 
 {% include section.html %}
 
+{% comment %}
 ## Positions
 
 Multiple research assistant positions:
@@ -18,3 +19,4 @@ Multiple research assistant positions:
 - Data mining for emergency preparedness ([Project details](https://www.cs.albany.edu/sccepr/)).
 
 To apply, [send CV and transcripts](https://www.albany.edu/computer-science/faculty/petko-bogdanov) to Prof. Petko Bogdanov.
+{% endcomment %}
