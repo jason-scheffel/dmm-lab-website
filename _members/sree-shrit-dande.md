@@ -5,4 +5,4 @@ role: phd
 affiliation: University at Albany - SUNY
 ---
 
-Research summary forthcoming.
+Research summary tbd.
