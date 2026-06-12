@@ -21,7 +21,6 @@ redirect_from:
 
 <div class="person-list">
   {% include person.html lookup="elham-sadeghi" %}
-  {% include person.html lookup="maxwell-mcneil" %}
   {% include person.html lookup="boya-ma" %}
 </div>
 
@@ -38,6 +37,7 @@ redirect_from:
 ## Alumni
 
 <div class="person-list">
+  {% include person.html lookup="maxwell-mcneil" style="compact" %}
   {% include person.html lookup="alexander-gorovits" style="compact" %}
   {% include person.html lookup="lin-zhang" style="compact" %}
   {% include person.html lookup="daniel-ditursi" style="compact" %}
