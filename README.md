@@ -111,17 +111,21 @@ Use `order` to control the display order. Images are optional.
 
 The template supports more citation workflows than this README covers. Details are in the [citation docs](https://greene-lab.gitbook.io/lab-website-template-docs/basics/citations).
 
-For this site, edit publication sources here:
+For this site, publications are pulled from Petko Bogdanov's Google Scholar profile:
 
 ```text
-_data/sources.yaml
+_data/google-scholar.yaml
 ```
+
+The Google Scholar pull uses SerpAPI. The GitHub repository must have an Actions repository secret named `GOOGLE_SCHOLAR_API_KEY`.
 
 Do **not** edit `_data/citations.yaml`. That file is generated automatically by GitHub Actions.
 
-#### Add Publication by Identifier
+#### Add or Correct a Publication
 
-Use this when the paper has a DOI, arXiv ID, or another identifier supported by [Manubot](https://github.com/manubot/manubot/blob/main/manubot/cite/handlers.py#L155).
+Use `_data/sources.yaml` for manual additions, corrections, or removals.
+
+If Google Scholar misses a paper and the paper has a DOI, arXiv ID, or another identifier supported by [Manubot](https://github.com/manubot/manubot/blob/main/manubot/cite/handlers.py#L155), add one entry:
 
 Add one entry to `_data/sources.yaml`:
 
@@ -139,9 +143,7 @@ or:
   link: https://arxiv.org/abs/2309.09717
 ```
 
-#### Add Publication Manually
-
-Use this when the automatic citation does not work.
+If the automatic citation does not work, add the details manually:
 
 ```yaml
 - title: Example Paper Title
